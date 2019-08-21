@@ -1,0 +1,814 @@
+2019-08-15 00:00:01,020 INFO 15532 [egg-logrotator] app logger reload: got log-reload message
+2019-08-15 00:16:14,544 INFO 19868 [egg:logger] init all loggers with options: {"dir":"D:\\nodeSenior\\lian\\egg-img\\server\\logs\\server","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"server-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2019-08-15 00:16:14,601 INFO 19868 [egg-multipart] file mode enable
+2019-08-15 00:16:14,601 INFO 19868 [egg-multipart] will save temporary files to "C:\\Users\\37165\\AppData\\Local\\Temp\\egg-multipart-tmp\\server", cleanup job cron: "0 30 4 * * *"
+2019-08-15 00:16:14,761 INFO 19868 [egg-static] starting static serve /public/ -> D:\nodeSenior\lian\egg-img\server\app\public
+2019-08-15 00:16:14,766 INFO 19868 [egg-security] use methodnoallow middleware
+2019-08-15 00:16:14,767 INFO 19868 [egg-security] use noopen middleware
+2019-08-15 00:16:14,770 INFO 19868 [egg-security] use nosniff middleware
+2019-08-15 00:16:14,771 INFO 19868 [egg-security] use xssProtection middleware
+2019-08-15 00:16:14,772 INFO 19868 [egg-security] use xframe middleware
+2019-08-15 00:16:14,773 INFO 19868 [egg-security] use dta middleware
+2019-08-15 00:16:14,773 INFO 19868 [egg-security] compose 6 middlewares into one security middleware
+2019-08-15 00:16:14,790 INFO 19868 [egg:core] dump config after load, 8ms
+2019-08-15 00:16:14,805 INFO 19868 [egg-watcher:application] watcher start success
+2019-08-15 00:16:14,817 INFO 19868 [egg:core] dump config after ready, 8ms
+2019-08-15 00:16:16,479 INFO 14188 [egg:logger] init all loggers with options: {"dir":"D:\\nodeSenior\\lian\\egg-img\\server\\logs\\server","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"server-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2019-08-15 00:16:16,527 INFO 14188 [egg-multipart] file mode enable
+2019-08-15 00:16:16,527 INFO 14188 [egg-multipart] will save temporary files to "C:\\Users\\37165\\AppData\\Local\\Temp\\egg-multipart-tmp\\server", cleanup job cron: "0 30 4 * * *"
+2019-08-15 00:16:16,655 INFO 14188 [egg-static] starting static serve /public/ -> D:\nodeSenior\lian\egg-img\server\app\public
+2019-08-15 00:16:16,660 INFO 14188 [egg-security] use methodnoallow middleware
+2019-08-15 00:16:16,661 INFO 14188 [egg-security] use noopen middleware
+2019-08-15 00:16:16,663 INFO 14188 [egg-security] use nosniff middleware
+2019-08-15 00:16:16,664 INFO 14188 [egg-security] use xssProtection middleware
+2019-08-15 00:16:16,665 INFO 14188 [egg-security] use xframe middleware
+2019-08-15 00:16:16,666 INFO 14188 [egg-security] use dta middleware
+2019-08-15 00:16:16,666 INFO 14188 [egg-security] compose 6 middlewares into one security middleware
+2019-08-15 00:16:16,681 INFO 14188 [egg:core] dump config after load, 8ms
+2019-08-15 00:16:16,697 INFO 14188 [egg-watcher:application] watcher start success
+2019-08-15 00:16:16,707 INFO 14188 [egg:core] dump config after ready, 8ms
+2019-08-15 00:16:18,293 INFO 8020 [egg:logger] init all loggers with options: {"dir":"D:\\nodeSenior\\lian\\egg-img\\server\\logs\\server","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"server-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2019-08-15 00:16:18,342 INFO 8020 [egg-multipart] file mode enable
+2019-08-15 00:16:18,342 INFO 8020 [egg-multipart] will save temporary files to "C:\\Users\\37165\\AppData\\Local\\Temp\\egg-multipart-tmp\\server", cleanup job cron: "0 30 4 * * *"
+2019-08-15 00:16:18,464 INFO 8020 [egg-static] starting static serve /public/ -> D:\nodeSenior\lian\egg-img\server\app\public
+2019-08-15 00:16:18,468 INFO 8020 [egg-security] use methodnoallow middleware
+2019-08-15 00:16:18,469 INFO 8020 [egg-security] use noopen middleware
+2019-08-15 00:16:18,471 INFO 8020 [egg-security] use nosniff middleware
+2019-08-15 00:16:18,472 INFO 8020 [egg-security] use xssProtection middleware
+2019-08-15 00:16:18,473 INFO 8020 [egg-security] use xframe middleware
+2019-08-15 00:16:18,473 INFO 8020 [egg-security] use dta middleware
+2019-08-15 00:16:18,473 INFO 8020 [egg-security] compose 6 middlewares into one security middleware
+2019-08-15 00:16:18,488 INFO 8020 [egg:core] dump config after load, 8ms
+2019-08-15 00:16:18,503 INFO 8020 [egg-watcher:application] watcher start success
+2019-08-15 00:16:18,515 INFO 8020 [egg:core] dump config after ready, 9ms
+2019-08-15 00:20:55,030 INFO 6272 [egg:logger] init all loggers with options: {"dir":"D:\\nodeSenior\\lian\\egg-img\\server\\logs\\server","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"server-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2019-08-15 00:20:55,076 INFO 6272 [egg-multipart] file mode enable
+2019-08-15 00:20:55,076 INFO 6272 [egg-multipart] will save temporary files to "C:\\Users\\37165\\AppData\\Local\\Temp\\egg-multipart-tmp\\server", cleanup job cron: "0 30 4 * * *"
+2019-08-15 00:20:55,200 INFO 6272 [egg-static] starting static serve /public/ -> D:\nodeSenior\lian\egg-img\server\app\public
+2019-08-15 00:20:55,204 INFO 6272 [egg-security] use methodnoallow middleware
+2019-08-15 00:20:55,205 INFO 6272 [egg-security] use noopen middleware
+2019-08-15 00:20:55,207 INFO 6272 [egg-security] use nosniff middleware
+2019-08-15 00:20:55,208 INFO 6272 [egg-security] use xssProtection middleware
+2019-08-15 00:20:55,209 INFO 6272 [egg-security] use xframe middleware
+2019-08-15 00:20:55,209 INFO 6272 [egg-security] use dta middleware
+2019-08-15 00:20:55,209 INFO 6272 [egg-security] compose 6 middlewares into one security middleware
+2019-08-15 00:20:55,224 INFO 6272 [egg:core] dump config after load, 7ms
+2019-08-15 00:20:55,244 INFO 6272 [egg-watcher:application] watcher start success
+2019-08-15 00:20:55,253 INFO 6272 [egg:core] dump config after ready, 7ms
+2019-08-15 00:27:39,963 INFO 18304 [egg:logger] init all loggers with options: {"dir":"D:\\nodeSenior\\lian\\egg-img\\server\\logs\\server","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"server-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2019-08-15 00:27:40,010 INFO 18304 [egg-multipart] file mode enable
+2019-08-15 00:27:40,010 INFO 18304 [egg-multipart] will save temporary files to "C:\\Users\\37165\\AppData\\Local\\Temp\\egg-multipart-tmp\\server", cleanup job cron: "0 30 4 * * *"
+2019-08-15 00:27:40,157 INFO 18304 [egg-static] starting static serve /public/ -> D:\nodeSenior\lian\egg-img\server\app\public
+2019-08-15 00:27:40,162 INFO 18304 [egg-security] use methodnoallow middleware
+2019-08-15 00:27:40,163 INFO 18304 [egg-security] use noopen middleware
+2019-08-15 00:27:40,165 INFO 18304 [egg-security] use nosniff middleware
+2019-08-15 00:27:40,166 INFO 18304 [egg-security] use xssProtection middleware
+2019-08-15 00:27:40,167 INFO 18304 [egg-security] use xframe middleware
+2019-08-15 00:27:40,168 INFO 18304 [egg-security] use dta middleware
+2019-08-15 00:27:40,168 INFO 18304 [egg-security] compose 6 middlewares into one security middleware
+2019-08-15 00:27:40,185 INFO 18304 [egg:core] dump config after load, 9ms
+2019-08-15 00:27:40,202 INFO 18304 [egg-watcher:application] watcher start success
+2019-08-15 00:27:40,213 INFO 18304 [egg:core] dump config after ready, 8ms
+2019-08-15 00:28:07,383 INFO 17824 [egg:logger] init all loggers with options: {"dir":"D:\\nodeSenior\\lian\\egg-img\\server\\logs\\server","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"server-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2019-08-15 00:28:07,451 INFO 17824 [egg-multipart] file mode enable
+2019-08-15 00:28:07,451 INFO 17824 [egg-multipart] will save temporary files to "C:\\Users\\37165\\AppData\\Local\\Temp\\egg-multipart-tmp\\server", cleanup job cron: "0 30 4 * * *"
+2019-08-15 00:28:07,588 INFO 17824 [egg-static] starting static serve /public/ -> D:\nodeSenior\lian\egg-img\server\app\public
+2019-08-15 00:28:07,593 INFO 17824 [egg-security] use methodnoallow middleware
+2019-08-15 00:28:07,594 INFO 17824 [egg-security] use noopen middleware
+2019-08-15 00:28:07,596 INFO 17824 [egg-security] use nosniff middleware
+2019-08-15 00:28:07,597 INFO 17824 [egg-security] use xssProtection middleware
+2019-08-15 00:28:07,597 INFO 17824 [egg-security] use xframe middleware
+2019-08-15 00:28:07,598 INFO 17824 [egg-security] use dta middleware
+2019-08-15 00:28:07,598 INFO 17824 [egg-security] compose 6 middlewares into one security middleware
+2019-08-15 00:28:07,613 INFO 17824 [egg:core] dump config after load, 8ms
+2019-08-15 00:28:07,628 INFO 17824 [egg-watcher:application] watcher start success
+2019-08-15 00:28:07,638 INFO 17824 [egg:core] dump config after ready, 7ms
+2019-08-15 00:32:47,354 INFO 17688 [egg:logger] init all loggers with options: {"dir":"D:\\nodeSenior\\lian\\egg-img\\server\\logs\\server","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"server-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2019-08-15 00:32:47,399 INFO 17688 [egg-multipart] file mode enable
+2019-08-15 00:32:47,399 INFO 17688 [egg-multipart] will save temporary files to "C:\\Users\\37165\\AppData\\Local\\Temp\\egg-multipart-tmp\\server", cleanup job cron: "0 30 4 * * *"
+2019-08-15 00:32:47,519 INFO 17688 [egg-static] starting static serve /public/ -> D:\nodeSenior\lian\egg-img\server\app\public
+2019-08-15 00:32:47,523 INFO 17688 [egg-security] use methodnoallow middleware
+2019-08-15 00:32:47,524 INFO 17688 [egg-security] use noopen middleware
+2019-08-15 00:32:47,526 INFO 17688 [egg-security] use nosniff middleware
+2019-08-15 00:32:47,527 INFO 17688 [egg-security] use xssProtection middleware
+2019-08-15 00:32:47,527 INFO 17688 [egg-security] use xframe middleware
+2019-08-15 00:32:47,528 INFO 17688 [egg-security] use dta middleware
+2019-08-15 00:32:47,528 INFO 17688 [egg-security] compose 6 middlewares into one security middleware
+2019-08-15 00:32:47,543 INFO 17688 [egg:core] dump config after load, 8ms
+2019-08-15 00:32:47,562 INFO 17688 [egg-watcher:application] watcher start success
+2019-08-15 00:32:47,573 INFO 17688 [egg:core] dump config after ready, 9ms
+2019-08-15 00:37:37,452 INFO 15748 [egg:logger] init all loggers with options: {"dir":"D:\\nodeSenior\\lian\\egg-img\\server\\logs\\server","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"server-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2019-08-15 00:37:37,502 INFO 15748 [egg-multipart] file mode enable
+2019-08-15 00:37:37,502 INFO 15748 [egg-multipart] will save temporary files to "C:\\Users\\37165\\AppData\\Local\\Temp\\egg-multipart-tmp\\server", cleanup job cron: "0 30 4 * * *"
+2019-08-15 00:37:37,635 INFO 15748 [egg-static] starting static serve /public/ -> D:\nodeSenior\lian\egg-img\server\app\public
+2019-08-15 00:37:37,640 INFO 15748 [egg-security] use methodnoallow middleware
+2019-08-15 00:37:37,641 INFO 15748 [egg-security] use noopen middleware
+2019-08-15 00:37:37,643 INFO 15748 [egg-security] use nosniff middleware
+2019-08-15 00:37:37,644 INFO 15748 [egg-security] use xssProtection middleware
+2019-08-15 00:37:37,645 INFO 15748 [egg-security] use xframe middleware
+2019-08-15 00:37:37,646 INFO 15748 [egg-security] use dta middleware
+2019-08-15 00:37:37,646 INFO 15748 [egg-security] compose 6 middlewares into one security middleware
+2019-08-15 00:37:37,669 INFO 15748 [egg:core] dump config after load, 13ms
+2019-08-15 00:37:37,688 INFO 15748 [egg-watcher:application] watcher start success
+2019-08-15 00:37:37,699 INFO 15748 [egg:core] dump config after ready, 9ms
+2019-08-15 00:37:39,311 INFO 20156 [egg:logger] init all loggers with options: {"dir":"D:\\nodeSenior\\lian\\egg-img\\server\\logs\\server","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"server-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2019-08-15 00:37:39,358 INFO 20156 [egg-multipart] file mode enable
+2019-08-15 00:37:39,358 INFO 20156 [egg-multipart] will save temporary files to "C:\\Users\\37165\\AppData\\Local\\Temp\\egg-multipart-tmp\\server", cleanup job cron: "0 30 4 * * *"
+2019-08-15 00:37:39,481 INFO 20156 [egg-static] starting static serve /public/ -> D:\nodeSenior\lian\egg-img\server\app\public
+2019-08-15 00:37:39,486 INFO 20156 [egg-security] use methodnoallow middleware
+2019-08-15 00:37:39,487 INFO 20156 [egg-security] use noopen middleware
+2019-08-15 00:37:39,489 INFO 20156 [egg-security] use nosniff middleware
+2019-08-15 00:37:39,490 INFO 20156 [egg-security] use xssProtection middleware
+2019-08-15 00:37:39,491 INFO 20156 [egg-security] use xframe middleware
+2019-08-15 00:37:39,491 INFO 20156 [egg-security] use dta middleware
+2019-08-15 00:37:39,492 INFO 20156 [egg-security] compose 6 middlewares into one security middleware
+2019-08-15 00:37:39,507 INFO 20156 [egg:core] dump config after load, 8ms
+2019-08-15 00:37:39,524 INFO 20156 [egg-watcher:application] watcher start success
+2019-08-15 00:37:39,535 INFO 20156 [egg:core] dump config after ready, 8ms
+2019-08-15 00:38:25,325 INFO 14360 [egg:logger] init all loggers with options: {"dir":"D:\\nodeSenior\\lian\\egg-img\\server\\logs\\server","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"server-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2019-08-15 00:38:25,374 INFO 14360 [egg-multipart] file mode enable
+2019-08-15 00:38:25,374 INFO 14360 [egg-multipart] will save temporary files to "C:\\Users\\37165\\AppData\\Local\\Temp\\egg-multipart-tmp\\server", cleanup job cron: "0 30 4 * * *"
+2019-08-15 00:38:25,497 INFO 14360 [egg-static] starting static serve /public/ -> D:\nodeSenior\lian\egg-img\server\app\public
+2019-08-15 00:38:25,501 INFO 14360 [egg-security] use methodnoallow middleware
+2019-08-15 00:38:25,502 INFO 14360 [egg-security] use noopen middleware
+2019-08-15 00:38:25,504 INFO 14360 [egg-security] use nosniff middleware
+2019-08-15 00:38:25,505 INFO 14360 [egg-security] use xssProtection middleware
+2019-08-15 00:38:25,506 INFO 14360 [egg-security] use xframe middleware
+2019-08-15 00:38:25,507 INFO 14360 [egg-security] use dta middleware
+2019-08-15 00:38:25,507 INFO 14360 [egg-security] compose 6 middlewares into one security middleware
+2019-08-15 00:38:25,522 INFO 14360 [egg:core] dump config after load, 7ms
+2019-08-15 00:38:25,537 INFO 14360 [egg-watcher:application] watcher start success
+2019-08-15 00:38:25,549 INFO 14360 [egg:core] dump config after ready, 9ms
+2019-08-15 00:40:45,000 INFO 15776 [egg:logger] init all loggers with options: {"dir":"D:\\nodeSenior\\lian\\egg-img\\server\\logs\\server","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"server-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2019-08-15 00:40:45,047 INFO 15776 [egg-multipart] file mode enable
+2019-08-15 00:40:45,047 INFO 15776 [egg-multipart] will save temporary files to "C:\\Users\\37165\\AppData\\Local\\Temp\\egg-multipart-tmp\\server", cleanup job cron: "0 30 4 * * *"
+2019-08-15 00:40:45,184 INFO 15776 [egg-static] starting static serve /public/ -> D:\nodeSenior\lian\egg-img\server\app\public
+2019-08-15 00:40:45,190 INFO 15776 [egg-security] use methodnoallow middleware
+2019-08-15 00:40:45,191 INFO 15776 [egg-security] use noopen middleware
+2019-08-15 00:40:45,193 INFO 15776 [egg-security] use nosniff middleware
+2019-08-15 00:40:45,194 INFO 15776 [egg-security] use xssProtection middleware
+2019-08-15 00:40:45,195 INFO 15776 [egg-security] use xframe middleware
+2019-08-15 00:40:45,196 INFO 15776 [egg-security] use dta middleware
+2019-08-15 00:40:45,196 INFO 15776 [egg-security] compose 6 middlewares into one security middleware
+2019-08-15 00:40:45,212 INFO 15776 [egg:core] dump config after load, 7ms
+2019-08-15 00:40:45,231 INFO 15776 [egg-watcher:application] watcher start success
+2019-08-15 00:40:45,242 INFO 15776 [egg:core] dump config after ready, 8ms
+2019-08-15 00:47:29,261 INFO 13080 [egg:logger] init all loggers with options: {"dir":"D:\\nodeSenior\\lian\\egg-img\\server\\logs\\server","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"server-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2019-08-15 00:47:29,321 INFO 13080 [egg-multipart] file mode enable
+2019-08-15 00:47:29,321 INFO 13080 [egg-multipart] will save temporary files to "C:\\Users\\37165\\AppData\\Local\\Temp\\egg-multipart-tmp\\server", cleanup job cron: "0 30 4 * * *"
+2019-08-15 00:47:29,457 INFO 13080 [egg-static] starting static serve /public/ -> D:\nodeSenior\lian\egg-img\server\app\public
+2019-08-15 00:47:29,461 INFO 13080 [egg-security] use methodnoallow middleware
+2019-08-15 00:47:29,463 INFO 13080 [egg-security] use noopen middleware
+2019-08-15 00:47:29,465 INFO 13080 [egg-security] use nosniff middleware
+2019-08-15 00:47:29,466 INFO 13080 [egg-security] use xssProtection middleware
+2019-08-15 00:47:29,467 INFO 13080 [egg-security] use xframe middleware
+2019-08-15 00:47:29,468 INFO 13080 [egg-security] use dta middleware
+2019-08-15 00:47:29,468 INFO 13080 [egg-security] compose 6 middlewares into one security middleware
+2019-08-15 00:47:29,484 INFO 13080 [egg:core] dump config after load, 9ms
+2019-08-15 00:47:29,500 INFO 13080 [egg-watcher:application] watcher start success
+2019-08-15 00:47:29,511 INFO 13080 [egg:core] dump config after ready, 8ms
+2019-08-15 00:48:21,512 INFO 15796 [egg:logger] init all loggers with options: {"dir":"D:\\nodeSenior\\lian\\egg-img\\server\\logs\\server","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"server-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2019-08-15 00:48:21,567 INFO 15796 [egg-multipart] file mode enable
+2019-08-15 00:48:21,567 INFO 15796 [egg-multipart] will save temporary files to "C:\\Users\\37165\\AppData\\Local\\Temp\\egg-multipart-tmp\\server", cleanup job cron: "0 30 4 * * *"
+2019-08-15 00:48:21,692 INFO 15796 [egg-static] starting static serve /public/ -> D:\nodeSenior\lian\egg-img\server\app\public
+2019-08-15 00:48:21,697 INFO 15796 [egg-security] use methodnoallow middleware
+2019-08-15 00:48:21,698 INFO 15796 [egg-security] use noopen middleware
+2019-08-15 00:48:21,702 INFO 15796 [egg-security] use nosniff middleware
+2019-08-15 00:48:21,702 INFO 15796 [egg-security] use xssProtection middleware
+2019-08-15 00:48:21,703 INFO 15796 [egg-security] use xframe middleware
+2019-08-15 00:48:21,704 INFO 15796 [egg-security] use dta middleware
+2019-08-15 00:48:21,704 INFO 15796 [egg-security] compose 6 middlewares into one security middleware
+2019-08-15 00:48:21,719 INFO 15796 [egg:core] dump config after load, 8ms
+2019-08-15 00:48:21,738 INFO 15796 [egg-watcher:application] watcher start success
+2019-08-15 00:48:21,748 INFO 15796 [egg:core] dump config after ready, 8ms
+2019-08-15 00:49:45,597 INFO 20156 [egg:logger] init all loggers with options: {"dir":"D:\\nodeSenior\\lian\\egg-img\\server\\logs\\server","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"server-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2019-08-15 00:49:45,670 INFO 20156 [egg-multipart] file mode enable
+2019-08-15 00:49:45,670 INFO 20156 [egg-multipart] will save temporary files to "C:\\Users\\37165\\AppData\\Local\\Temp\\egg-multipart-tmp\\server", cleanup job cron: "0 30 4 * * *"
+2019-08-15 00:49:45,809 INFO 20156 [egg-static] starting static serve /public/ -> D:\nodeSenior\lian\egg-img\server\app\public
+2019-08-15 00:49:45,814 INFO 20156 [egg-security] use methodnoallow middleware
+2019-08-15 00:49:45,815 INFO 20156 [egg-security] use noopen middleware
+2019-08-15 00:49:45,817 INFO 20156 [egg-security] use nosniff middleware
+2019-08-15 00:49:45,817 INFO 20156 [egg-security] use xssProtection middleware
+2019-08-15 00:49:45,818 INFO 20156 [egg-security] use xframe middleware
+2019-08-15 00:49:45,819 INFO 20156 [egg-security] use dta middleware
+2019-08-15 00:49:45,819 INFO 20156 [egg-security] compose 6 middlewares into one security middleware
+2019-08-15 00:49:45,833 INFO 20156 [egg:core] dump config after load, 7ms
+2019-08-15 00:49:45,847 INFO 20156 [egg-watcher:application] watcher start success
+2019-08-15 00:49:45,857 INFO 20156 [egg:core] dump config after ready, 7ms
+2019-08-15 00:50:09,385 INFO 18516 [egg:logger] init all loggers with options: {"dir":"D:\\nodeSenior\\lian\\egg-img\\server\\logs\\server","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"server-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2019-08-15 00:50:09,430 INFO 18516 [egg-multipart] file mode enable
+2019-08-15 00:50:09,430 INFO 18516 [egg-multipart] will save temporary files to "C:\\Users\\37165\\AppData\\Local\\Temp\\egg-multipart-tmp\\server", cleanup job cron: "0 30 4 * * *"
+2019-08-15 00:50:09,548 INFO 18516 [egg-static] starting static serve /public/ -> D:\nodeSenior\lian\egg-img\server\app\public
+2019-08-15 00:50:09,552 INFO 18516 [egg-security] use methodnoallow middleware
+2019-08-15 00:50:09,553 INFO 18516 [egg-security] use noopen middleware
+2019-08-15 00:50:09,555 INFO 18516 [egg-security] use nosniff middleware
+2019-08-15 00:50:09,556 INFO 18516 [egg-security] use xssProtection middleware
+2019-08-15 00:50:09,556 INFO 18516 [egg-security] use xframe middleware
+2019-08-15 00:50:09,557 INFO 18516 [egg-security] use dta middleware
+2019-08-15 00:50:09,557 INFO 18516 [egg-security] compose 6 middlewares into one security middleware
+2019-08-15 00:50:09,571 INFO 18516 [egg:core] dump config after load, 7ms
+2019-08-15 00:50:09,590 INFO 18516 [egg-watcher:application] watcher start success
+2019-08-15 00:50:09,599 INFO 18516 [egg:core] dump config after ready, 7ms
+2019-08-15 00:50:38,598 INFO 18088 [egg:logger] init all loggers with options: {"dir":"D:\\nodeSenior\\lian\\egg-img\\server\\logs\\server","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"server-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2019-08-15 00:50:38,645 INFO 18088 [egg-multipart] file mode enable
+2019-08-15 00:50:38,645 INFO 18088 [egg-multipart] will save temporary files to "C:\\Users\\37165\\AppData\\Local\\Temp\\egg-multipart-tmp\\server", cleanup job cron: "0 30 4 * * *"
+2019-08-15 00:50:38,783 INFO 18088 [egg-static] starting static serve /public/ -> D:\nodeSenior\lian\egg-img\server\app\public
+2019-08-15 00:50:38,789 INFO 18088 [egg-security] use methodnoallow middleware
+2019-08-15 00:50:38,790 INFO 18088 [egg-security] use noopen middleware
+2019-08-15 00:50:38,792 INFO 18088 [egg-security] use nosniff middleware
+2019-08-15 00:50:38,793 INFO 18088 [egg-security] use xssProtection middleware
+2019-08-15 00:50:38,794 INFO 18088 [egg-security] use xframe middleware
+2019-08-15 00:50:38,795 INFO 18088 [egg-security] use dta middleware
+2019-08-15 00:50:38,795 INFO 18088 [egg-security] compose 6 middlewares into one security middleware
+2019-08-15 00:50:38,814 INFO 18088 [egg:core] dump config after load, 7ms
+2019-08-15 00:50:38,832 INFO 18088 [egg-watcher:application] watcher start success
+2019-08-15 00:50:38,846 INFO 18088 [egg:core] dump config after ready, 12ms
+2019-08-15 00:51:42,007 INFO 14076 [egg:logger] init all loggers with options: {"dir":"D:\\nodeSenior\\lian\\egg-img\\server\\logs\\server","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"server-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2019-08-15 00:51:42,061 INFO 14076 [egg-multipart] file mode enable
+2019-08-15 00:51:42,061 INFO 14076 [egg-multipart] will save temporary files to "C:\\Users\\37165\\AppData\\Local\\Temp\\egg-multipart-tmp\\server", cleanup job cron: "0 30 4 * * *"
+2019-08-15 00:51:42,286 INFO 14076 [egg-static] starting static serve /public/ -> D:\nodeSenior\lian\egg-img\server\app\public
+2019-08-15 00:51:42,294 INFO 14076 [egg-security] use methodnoallow middleware
+2019-08-15 00:51:42,297 INFO 14076 [egg-security] use noopen middleware
+2019-08-15 00:51:42,302 INFO 14076 [egg-security] use nosniff middleware
+2019-08-15 00:51:42,304 INFO 14076 [egg-security] use xssProtection middleware
+2019-08-15 00:51:42,305 INFO 14076 [egg-security] use xframe middleware
+2019-08-15 00:51:42,307 INFO 14076 [egg-security] use dta middleware
+2019-08-15 00:51:42,307 INFO 14076 [egg-security] compose 6 middlewares into one security middleware
+2019-08-15 00:51:42,333 INFO 14076 [egg:core] dump config after load, 11ms
+2019-08-15 00:51:42,357 INFO 14076 [egg-watcher:application] watcher start success
+2019-08-15 00:51:42,375 INFO 14076 [egg:core] dump config after ready, 15ms
+2019-08-15 15:21:13,519 INFO 200788 [egg:logger] init all loggers with options: {"dir":"D:\\nodeSenior\\lian\\egg-img\\server\\logs\\server","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"server-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2019-08-15 15:21:13,553 INFO 200788 [egg-multipart] file mode enable
+2019-08-15 15:21:13,553 INFO 200788 [egg-multipart] will save temporary files to "C:\\Users\\37165\\AppData\\Local\\Temp\\egg-multipart-tmp\\server", cleanup job cron: "0 30 4 * * *"
+2019-08-15 15:21:13,688 INFO 200788 [egg-static] starting static serve /public/ -> D:\nodeSenior\lian\egg-img\server\app\public
+2019-08-15 15:21:13,693 INFO 200788 [egg-security] use methodnoallow middleware
+2019-08-15 15:21:13,694 INFO 200788 [egg-security] use noopen middleware
+2019-08-15 15:21:13,696 INFO 200788 [egg-security] use nosniff middleware
+2019-08-15 15:21:13,697 INFO 200788 [egg-security] use xssProtection middleware
+2019-08-15 15:21:13,697 INFO 200788 [egg-security] use xframe middleware
+2019-08-15 15:21:13,698 INFO 200788 [egg-security] use dta middleware
+2019-08-15 15:21:13,698 INFO 200788 [egg-security] compose 6 middlewares into one security middleware
+2019-08-15 15:21:13,711 INFO 200788 [egg:core] dump config after load, 7ms
+2019-08-15 15:21:13,725 INFO 200788 [egg-watcher:application] watcher start success
+2019-08-15 15:21:13,732 INFO 200788 [egg:core] dump config after ready, 5ms
+2019-08-15 15:21:15,224 INFO 200936 [egg:logger] init all loggers with options: {"dir":"D:\\nodeSenior\\lian\\egg-img\\server\\logs\\server","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"server-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2019-08-15 15:21:15,259 INFO 200936 [egg-multipart] file mode enable
+2019-08-15 15:21:15,259 INFO 200936 [egg-multipart] will save temporary files to "C:\\Users\\37165\\AppData\\Local\\Temp\\egg-multipart-tmp\\server", cleanup job cron: "0 30 4 * * *"
+2019-08-15 15:21:15,353 INFO 200936 [egg-static] starting static serve /public/ -> D:\nodeSenior\lian\egg-img\server\app\public
+2019-08-15 15:21:15,356 INFO 200936 [egg-security] use methodnoallow middleware
+2019-08-15 15:21:15,357 INFO 200936 [egg-security] use noopen middleware
+2019-08-15 15:21:15,358 INFO 200936 [egg-security] use nosniff middleware
+2019-08-15 15:21:15,359 INFO 200936 [egg-security] use xssProtection middleware
+2019-08-15 15:21:15,360 INFO 200936 [egg-security] use xframe middleware
+2019-08-15 15:21:15,360 INFO 200936 [egg-security] use dta middleware
+2019-08-15 15:21:15,360 INFO 200936 [egg-security] compose 6 middlewares into one security middleware
+2019-08-15 15:21:15,372 INFO 200936 [egg:core] dump config after load, 6ms
+2019-08-15 15:21:15,383 INFO 200936 [egg-watcher:application] watcher start success
+2019-08-15 15:21:15,391 INFO 200936 [egg:core] dump config after ready, 6ms
+2019-08-15 15:21:53,228 INFO 202548 [egg:logger] init all loggers with options: {"dir":"D:\\nodeSenior\\lian\\egg-img\\server\\logs\\server","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"server-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2019-08-15 15:21:53,259 INFO 202548 [egg-multipart] file mode enable
+2019-08-15 15:21:53,259 INFO 202548 [egg-multipart] will save temporary files to "C:\\Users\\37165\\AppData\\Local\\Temp\\egg-multipart-tmp\\server", cleanup job cron: "0 30 4 * * *"
+2019-08-15 15:21:53,343 INFO 202548 [egg-static] starting static serve /public/ -> D:\nodeSenior\lian\egg-img\server\app\public
+2019-08-15 15:21:53,346 INFO 202548 [egg-security] use methodnoallow middleware
+2019-08-15 15:21:53,346 INFO 202548 [egg-security] use noopen middleware
+2019-08-15 15:21:53,348 INFO 202548 [egg-security] use nosniff middleware
+2019-08-15 15:21:53,348 INFO 202548 [egg-security] use xssProtection middleware
+2019-08-15 15:21:53,349 INFO 202548 [egg-security] use xframe middleware
+2019-08-15 15:21:53,349 INFO 202548 [egg-security] use dta middleware
+2019-08-15 15:21:53,349 INFO 202548 [egg-security] compose 6 middlewares into one security middleware
+2019-08-15 15:21:53,360 INFO 202548 [egg:core] dump config after load, 6ms
+2019-08-15 15:21:53,373 INFO 202548 [egg-watcher:application] watcher start success
+2019-08-15 15:21:53,381 INFO 202548 [egg:core] dump config after ready, 7ms
+2019-08-15 15:23:07,205 INFO 207452 [egg:logger] init all loggers with options: {"dir":"D:\\nodeSenior\\lian\\egg-img\\server\\logs\\server","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"server-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2019-08-15 15:23:07,236 INFO 207452 [egg-multipart] file mode enable
+2019-08-15 15:23:07,236 INFO 207452 [egg-multipart] will save temporary files to "C:\\Users\\37165\\AppData\\Local\\Temp\\egg-multipart-tmp\\server", cleanup job cron: "0 30 4 * * *"
+2019-08-15 15:23:07,321 INFO 207452 [egg-static] starting static serve /public/ -> D:\nodeSenior\lian\egg-img\server\app\public
+2019-08-15 15:23:07,324 INFO 207452 [egg-security] use methodnoallow middleware
+2019-08-15 15:23:07,325 INFO 207452 [egg-security] use noopen middleware
+2019-08-15 15:23:07,326 INFO 207452 [egg-security] use nosniff middleware
+2019-08-15 15:23:07,327 INFO 207452 [egg-security] use xssProtection middleware
+2019-08-15 15:23:07,327 INFO 207452 [egg-security] use xframe middleware
+2019-08-15 15:23:07,328 INFO 207452 [egg-security] use dta middleware
+2019-08-15 15:23:07,328 INFO 207452 [egg-security] compose 6 middlewares into one security middleware
+2019-08-15 15:23:07,339 INFO 207452 [egg:core] dump config after load, 6ms
+2019-08-15 15:23:07,349 INFO 207452 [egg-watcher:application] watcher start success
+2019-08-15 15:23:07,356 INFO 207452 [egg:core] dump config after ready, 6ms
+2019-08-15 15:23:08,419 INFO 207524 [egg:logger] init all loggers with options: {"dir":"D:\\nodeSenior\\lian\\egg-img\\server\\logs\\server","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"server-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2019-08-15 15:23:08,450 INFO 207524 [egg-multipart] file mode enable
+2019-08-15 15:23:08,450 INFO 207524 [egg-multipart] will save temporary files to "C:\\Users\\37165\\AppData\\Local\\Temp\\egg-multipart-tmp\\server", cleanup job cron: "0 30 4 * * *"
+2019-08-15 15:23:08,544 INFO 207524 [egg-static] starting static serve /public/ -> D:\nodeSenior\lian\egg-img\server\app\public
+2019-08-15 15:23:08,547 INFO 207524 [egg-security] use methodnoallow middleware
+2019-08-15 15:23:08,548 INFO 207524 [egg-security] use noopen middleware
+2019-08-15 15:23:08,549 INFO 207524 [egg-security] use nosniff middleware
+2019-08-15 15:23:08,550 INFO 207524 [egg-security] use xssProtection middleware
+2019-08-15 15:23:08,550 INFO 207524 [egg-security] use xframe middleware
+2019-08-15 15:23:08,551 INFO 207524 [egg-security] use dta middleware
+2019-08-15 15:23:08,551 INFO 207524 [egg-security] compose 6 middlewares into one security middleware
+2019-08-15 15:23:08,564 INFO 207524 [egg:core] dump config after load, 5ms
+2019-08-15 15:23:08,581 INFO 207524 [egg-watcher:application] watcher start success
+2019-08-15 15:23:08,591 INFO 207524 [egg:core] dump config after ready, 9ms
+2019-08-15 15:23:09,712 INFO 207592 [egg:logger] init all loggers with options: {"dir":"D:\\nodeSenior\\lian\\egg-img\\server\\logs\\server","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"server-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2019-08-15 15:23:09,744 INFO 207592 [egg-multipart] file mode enable
+2019-08-15 15:23:09,744 INFO 207592 [egg-multipart] will save temporary files to "C:\\Users\\37165\\AppData\\Local\\Temp\\egg-multipart-tmp\\server", cleanup job cron: "0 30 4 * * *"
+2019-08-15 15:23:09,834 INFO 207592 [egg-static] starting static serve /public/ -> D:\nodeSenior\lian\egg-img\server\app\public
+2019-08-15 15:23:09,837 INFO 207592 [egg-security] use methodnoallow middleware
+2019-08-15 15:23:09,838 INFO 207592 [egg-security] use noopen middleware
+2019-08-15 15:23:09,839 INFO 207592 [egg-security] use nosniff middleware
+2019-08-15 15:23:09,840 INFO 207592 [egg-security] use xssProtection middleware
+2019-08-15 15:23:09,840 INFO 207592 [egg-security] use xframe middleware
+2019-08-15 15:23:09,841 INFO 207592 [egg-security] use dta middleware
+2019-08-15 15:23:09,841 INFO 207592 [egg-security] compose 6 middlewares into one security middleware
+2019-08-15 15:23:09,851 INFO 207592 [egg:core] dump config after load, 6ms
+2019-08-15 15:23:09,862 INFO 207592 [egg-watcher:application] watcher start success
+2019-08-15 15:23:09,870 INFO 207592 [egg:core] dump config after ready, 7ms
+2019-08-15 15:23:20,865 INFO 208756 [egg:logger] init all loggers with options: {"dir":"D:\\nodeSenior\\lian\\egg-img\\server\\logs\\server","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"server-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2019-08-15 15:23:20,896 INFO 208756 [egg-multipart] file mode enable
+2019-08-15 15:23:20,896 INFO 208756 [egg-multipart] will save temporary files to "C:\\Users\\37165\\AppData\\Local\\Temp\\egg-multipart-tmp\\server", cleanup job cron: "0 30 4 * * *"
+2019-08-15 15:23:20,978 INFO 208756 [egg-static] starting static serve /public/ -> D:\nodeSenior\lian\egg-img\server\app\public
+2019-08-15 15:23:20,981 INFO 208756 [egg-security] use methodnoallow middleware
+2019-08-15 15:23:20,982 INFO 208756 [egg-security] use noopen middleware
+2019-08-15 15:23:20,983 INFO 208756 [egg-security] use nosniff middleware
+2019-08-15 15:23:20,984 INFO 208756 [egg-security] use xssProtection middleware
+2019-08-15 15:23:20,984 INFO 208756 [egg-security] use xframe middleware
+2019-08-15 15:23:20,985 INFO 208756 [egg-security] use dta middleware
+2019-08-15 15:23:20,985 INFO 208756 [egg-security] compose 6 middlewares into one security middleware
+2019-08-15 15:23:20,994 INFO 208756 [egg:core] dump config after load, 5ms
+2019-08-15 15:23:21,007 INFO 208756 [egg-watcher:application] watcher start success
+2019-08-15 15:23:21,014 INFO 208756 [egg:core] dump config after ready, 6ms
+2019-08-15 15:25:26,988 INFO 209188 [egg:logger] init all loggers with options: {"dir":"D:\\nodeSenior\\lian\\egg-img\\server\\logs\\server","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"server-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2019-08-15 15:25:27,020 INFO 209188 [egg-multipart] file mode enable
+2019-08-15 15:25:27,020 INFO 209188 [egg-multipart] will save temporary files to "C:\\Users\\37165\\AppData\\Local\\Temp\\egg-multipart-tmp\\server", cleanup job cron: "0 30 4 * * *"
+2019-08-15 15:25:27,101 INFO 209188 [egg-static] starting static serve /public/ -> D:\nodeSenior\lian\egg-img\server\app\public
+2019-08-15 15:25:27,105 INFO 209188 [egg-security] use methodnoallow middleware
+2019-08-15 15:25:27,107 INFO 209188 [egg-security] use noopen middleware
+2019-08-15 15:25:27,108 INFO 209188 [egg-security] use nosniff middleware
+2019-08-15 15:25:27,108 INFO 209188 [egg-security] use xssProtection middleware
+2019-08-15 15:25:27,109 INFO 209188 [egg-security] use xframe middleware
+2019-08-15 15:25:27,109 INFO 209188 [egg-security] use dta middleware
+2019-08-15 15:25:27,109 INFO 209188 [egg-security] compose 6 middlewares into one security middleware
+2019-08-15 15:25:27,119 INFO 209188 [egg:core] dump config after load, 5ms
+2019-08-15 15:25:27,130 INFO 209188 [egg-watcher:application] watcher start success
+2019-08-15 15:25:27,137 INFO 209188 [egg:core] dump config after ready, 6ms
+2019-08-15 15:25:39,281 INFO 209436 [egg:logger] init all loggers with options: {"dir":"D:\\nodeSenior\\lian\\egg-img\\server\\logs\\server","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"server-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2019-08-15 15:25:39,312 INFO 209436 [egg-multipart] file mode enable
+2019-08-15 15:25:39,312 INFO 209436 [egg-multipart] will save temporary files to "C:\\Users\\37165\\AppData\\Local\\Temp\\egg-multipart-tmp\\server", cleanup job cron: "0 30 4 * * *"
+2019-08-15 15:25:39,397 INFO 209436 [egg-static] starting static serve /public/ -> D:\nodeSenior\lian\egg-img\server\app\public
+2019-08-15 15:25:39,401 INFO 209436 [egg-security] use methodnoallow middleware
+2019-08-15 15:25:39,402 INFO 209436 [egg-security] use noopen middleware
+2019-08-15 15:25:39,403 INFO 209436 [egg-security] use nosniff middleware
+2019-08-15 15:25:39,403 INFO 209436 [egg-security] use xssProtection middleware
+2019-08-15 15:25:39,404 INFO 209436 [egg-security] use xframe middleware
+2019-08-15 15:25:39,404 INFO 209436 [egg-security] use dta middleware
+2019-08-15 15:25:39,404 INFO 209436 [egg-security] compose 6 middlewares into one security middleware
+2019-08-15 15:25:39,414 INFO 209436 [egg:core] dump config after load, 5ms
+2019-08-15 15:25:39,426 INFO 209436 [egg-watcher:application] watcher start success
+2019-08-15 15:25:39,433 INFO 209436 [egg:core] dump config after ready, 6ms
+2019-08-15 15:26:37,106 INFO 209804 [egg:logger] init all loggers with options: {"dir":"D:\\nodeSenior\\lian\\egg-img\\server\\logs\\server","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"server-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2019-08-15 15:26:37,137 INFO 209804 [egg-multipart] file mode enable
+2019-08-15 15:26:37,137 INFO 209804 [egg-multipart] will save temporary files to "C:\\Users\\37165\\AppData\\Local\\Temp\\egg-multipart-tmp\\server", cleanup job cron: "0 30 4 * * *"
+2019-08-15 15:26:37,220 INFO 209804 [egg-static] starting static serve /public/ -> D:\nodeSenior\lian\egg-img\server\app\public
+2019-08-15 15:26:37,223 INFO 209804 [egg-security] use methodnoallow middleware
+2019-08-15 15:26:37,223 INFO 209804 [egg-security] use noopen middleware
+2019-08-15 15:26:37,225 INFO 209804 [egg-security] use nosniff middleware
+2019-08-15 15:26:37,225 INFO 209804 [egg-security] use xssProtection middleware
+2019-08-15 15:26:37,226 INFO 209804 [egg-security] use xframe middleware
+2019-08-15 15:26:37,226 INFO 209804 [egg-security] use dta middleware
+2019-08-15 15:26:37,226 INFO 209804 [egg-security] compose 6 middlewares into one security middleware
+2019-08-15 15:26:37,237 INFO 209804 [egg:core] dump config after load, 5ms
+2019-08-15 15:26:37,247 INFO 209804 [egg-watcher:application] watcher start success
+2019-08-15 15:26:37,254 INFO 209804 [egg:core] dump config after ready, 6ms
+2019-08-15 15:26:58,124 INFO 210048 [egg:logger] init all loggers with options: {"dir":"D:\\nodeSenior\\lian\\egg-img\\server\\logs\\server","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"server-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2019-08-15 15:26:58,156 INFO 210048 [egg-multipart] file mode enable
+2019-08-15 15:26:58,156 INFO 210048 [egg-multipart] will save temporary files to "C:\\Users\\37165\\AppData\\Local\\Temp\\egg-multipart-tmp\\server", cleanup job cron: "0 30 4 * * *"
+2019-08-15 15:26:58,240 INFO 210048 [egg-static] starting static serve /public/ -> D:\nodeSenior\lian\egg-img\server\app\public
+2019-08-15 15:26:58,243 INFO 210048 [egg-security] use methodnoallow middleware
+2019-08-15 15:26:58,243 INFO 210048 [egg-security] use noopen middleware
+2019-08-15 15:26:58,245 INFO 210048 [egg-security] use nosniff middleware
+2019-08-15 15:26:58,245 INFO 210048 [egg-security] use xssProtection middleware
+2019-08-15 15:26:58,246 INFO 210048 [egg-security] use xframe middleware
+2019-08-15 15:26:58,246 INFO 210048 [egg-security] use dta middleware
+2019-08-15 15:26:58,246 INFO 210048 [egg-security] compose 6 middlewares into one security middleware
+2019-08-15 15:26:58,256 INFO 210048 [egg:core] dump config after load, 5ms
+2019-08-15 15:26:58,267 INFO 210048 [egg-watcher:application] watcher start success
+2019-08-15 15:26:58,275 INFO 210048 [egg:core] dump config after ready, 7ms
+2019-08-15 15:28:46,277 INFO 211164 [egg:logger] init all loggers with options: {"dir":"D:\\nodeSenior\\lian\\egg-img\\server\\logs\\server","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"server-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2019-08-15 15:28:46,308 INFO 211164 [egg-multipart] file mode enable
+2019-08-15 15:28:46,308 INFO 211164 [egg-multipart] will save temporary files to "C:\\Users\\37165\\AppData\\Local\\Temp\\egg-multipart-tmp\\server", cleanup job cron: "0 30 4 * * *"
+2019-08-15 15:28:46,394 INFO 211164 [egg-static] starting static serve /public/ -> D:\nodeSenior\lian\egg-img\server\app\public
+2019-08-15 15:28:46,398 INFO 211164 [egg-security] use methodnoallow middleware
+2019-08-15 15:28:46,398 INFO 211164 [egg-security] use noopen middleware
+2019-08-15 15:28:46,400 INFO 211164 [egg-security] use nosniff middleware
+2019-08-15 15:28:46,401 INFO 211164 [egg-security] use xssProtection middleware
+2019-08-15 15:28:46,401 INFO 211164 [egg-security] use xframe middleware
+2019-08-15 15:28:46,402 INFO 211164 [egg-security] use dta middleware
+2019-08-15 15:28:46,402 INFO 211164 [egg-security] compose 6 middlewares into one security middleware
+2019-08-15 15:28:46,413 INFO 211164 [egg:core] dump config after load, 5ms
+2019-08-15 15:28:46,423 INFO 211164 [egg-watcher:application] watcher start success
+2019-08-15 15:28:46,429 INFO 211164 [egg:core] dump config after ready, 5ms
+2019-08-15 15:29:58,858 INFO 211820 [egg:logger] init all loggers with options: {"dir":"D:\\nodeSenior\\lian\\egg-img\\server\\logs\\server","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"server-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2019-08-15 15:29:58,890 INFO 211820 [egg-multipart] file mode enable
+2019-08-15 15:29:58,890 INFO 211820 [egg-multipart] will save temporary files to "C:\\Users\\37165\\AppData\\Local\\Temp\\egg-multipart-tmp\\server", cleanup job cron: "0 30 4 * * *"
+2019-08-15 15:29:58,977 INFO 211820 [egg-static] starting static serve /public/ -> D:\nodeSenior\lian\egg-img\server\app\public
+2019-08-15 15:29:58,981 INFO 211820 [egg-security] use methodnoallow middleware
+2019-08-15 15:29:58,981 INFO 211820 [egg-security] use noopen middleware
+2019-08-15 15:29:58,983 INFO 211820 [egg-security] use nosniff middleware
+2019-08-15 15:29:58,983 INFO 211820 [egg-security] use xssProtection middleware
+2019-08-15 15:29:58,984 INFO 211820 [egg-security] use xframe middleware
+2019-08-15 15:29:58,984 INFO 211820 [egg-security] use dta middleware
+2019-08-15 15:29:58,984 INFO 211820 [egg-security] compose 6 middlewares into one security middleware
+2019-08-15 15:29:58,994 INFO 211820 [egg:core] dump config after load, 5ms
+2019-08-15 15:29:59,007 INFO 211820 [egg-watcher:application] watcher start success
+2019-08-15 15:29:59,015 INFO 211820 [egg:core] dump config after ready, 7ms
+2019-08-15 15:31:39,053 INFO 212664 [egg:logger] init all loggers with options: {"dir":"D:\\nodeSenior\\lian\\egg-img\\server\\logs\\server","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"server-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2019-08-15 15:31:39,090 INFO 212664 [egg-multipart] file mode enable
+2019-08-15 15:31:39,090 INFO 212664 [egg-multipart] will save temporary files to "C:\\Users\\37165\\AppData\\Local\\Temp\\egg-multipart-tmp\\server", cleanup job cron: "0 30 4 * * *"
+2019-08-15 15:31:39,175 INFO 212664 [egg-static] starting static serve /public/ -> D:\nodeSenior\lian\egg-img\server\app\public
+2019-08-15 15:31:39,178 INFO 212664 [egg-security] use methodnoallow middleware
+2019-08-15 15:31:39,179 INFO 212664 [egg-security] use noopen middleware
+2019-08-15 15:31:39,180 INFO 212664 [egg-security] use nosniff middleware
+2019-08-15 15:31:39,181 INFO 212664 [egg-security] use xssProtection middleware
+2019-08-15 15:31:39,181 INFO 212664 [egg-security] use xframe middleware
+2019-08-15 15:31:39,182 INFO 212664 [egg-security] use dta middleware
+2019-08-15 15:31:39,182 INFO 212664 [egg-security] compose 6 middlewares into one security middleware
+2019-08-15 15:31:39,192 INFO 212664 [egg:core] dump config after load, 6ms
+2019-08-15 15:31:39,203 INFO 212664 [egg-watcher:application] watcher start success
+2019-08-15 15:31:39,211 INFO 212664 [egg:core] dump config after ready, 6ms
+2019-08-15 15:32:30,557 INFO 213188 [egg:logger] init all loggers with options: {"dir":"D:\\nodeSenior\\lian\\egg-img\\server\\logs\\server","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"server-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2019-08-15 15:32:30,591 INFO 213188 [egg-multipart] file mode enable
+2019-08-15 15:32:30,592 INFO 213188 [egg-multipart] will save temporary files to "C:\\Users\\37165\\AppData\\Local\\Temp\\egg-multipart-tmp\\server", cleanup job cron: "0 30 4 * * *"
+2019-08-15 15:32:30,681 INFO 213188 [egg-static] starting static serve /public/ -> D:\nodeSenior\lian\egg-img\server\app\public
+2019-08-15 15:32:30,684 INFO 213188 [egg-security] use methodnoallow middleware
+2019-08-15 15:32:30,685 INFO 213188 [egg-security] use noopen middleware
+2019-08-15 15:32:30,686 INFO 213188 [egg-security] use nosniff middleware
+2019-08-15 15:32:30,686 INFO 213188 [egg-security] use xssProtection middleware
+2019-08-15 15:32:30,687 INFO 213188 [egg-security] use xframe middleware
+2019-08-15 15:32:30,687 INFO 213188 [egg-security] use dta middleware
+2019-08-15 15:32:30,687 INFO 213188 [egg-security] compose 6 middlewares into one security middleware
+2019-08-15 15:32:30,697 INFO 213188 [egg:core] dump config after load, 5ms
+2019-08-15 15:32:30,710 INFO 213188 [egg-watcher:application] watcher start success
+2019-08-15 15:32:30,719 INFO 213188 [egg:core] dump config after ready, 6ms
+2019-08-15 15:32:48,286 INFO 214068 [egg:logger] init all loggers with options: {"dir":"D:\\nodeSenior\\lian\\egg-img\\server\\logs\\server","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"server-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2019-08-15 15:32:48,317 INFO 214068 [egg-multipart] file mode enable
+2019-08-15 15:32:48,317 INFO 214068 [egg-multipart] will save temporary files to "C:\\Users\\37165\\AppData\\Local\\Temp\\egg-multipart-tmp\\server", cleanup job cron: "0 30 4 * * *"
+2019-08-15 15:32:48,401 INFO 214068 [egg-static] starting static serve /public/ -> D:\nodeSenior\lian\egg-img\server\app\public
+2019-08-15 15:32:48,404 INFO 214068 [egg-security] use methodnoallow middleware
+2019-08-15 15:32:48,405 INFO 214068 [egg-security] use noopen middleware
+2019-08-15 15:32:48,406 INFO 214068 [egg-security] use nosniff middleware
+2019-08-15 15:32:48,407 INFO 214068 [egg-security] use xssProtection middleware
+2019-08-15 15:32:48,407 INFO 214068 [egg-security] use xframe middleware
+2019-08-15 15:32:48,408 INFO 214068 [egg-security] use dta middleware
+2019-08-15 15:32:48,408 INFO 214068 [egg-security] compose 6 middlewares into one security middleware
+2019-08-15 15:32:48,418 INFO 214068 [egg:core] dump config after load, 5ms
+2019-08-15 15:32:48,431 INFO 214068 [egg-watcher:application] watcher start success
+2019-08-15 15:32:48,439 INFO 214068 [egg:core] dump config after ready, 6ms
+2019-08-15 15:34:34,311 INFO 217124 [egg:logger] init all loggers with options: {"dir":"D:\\nodeSenior\\lian\\egg-img\\server\\logs\\server","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"server-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2019-08-15 15:34:34,344 INFO 217124 [egg-multipart] file mode enable
+2019-08-15 15:34:34,344 INFO 217124 [egg-multipart] will save temporary files to "C:\\Users\\37165\\AppData\\Local\\Temp\\egg-multipart-tmp\\server", cleanup job cron: "0 30 4 * * *"
+2019-08-15 15:34:34,428 INFO 217124 [egg-static] starting static serve /public/ -> D:\nodeSenior\lian\egg-img\server\app\public
+2019-08-15 15:34:34,431 INFO 217124 [egg-security] use methodnoallow middleware
+2019-08-15 15:34:34,432 INFO 217124 [egg-security] use noopen middleware
+2019-08-15 15:34:34,433 INFO 217124 [egg-security] use nosniff middleware
+2019-08-15 15:34:34,434 INFO 217124 [egg-security] use xssProtection middleware
+2019-08-15 15:34:34,434 INFO 217124 [egg-security] use xframe middleware
+2019-08-15 15:34:34,435 INFO 217124 [egg-security] use dta middleware
+2019-08-15 15:34:34,435 INFO 217124 [egg-security] compose 6 middlewares into one security middleware
+2019-08-15 15:34:34,445 INFO 217124 [egg:core] dump config after load, 5ms
+2019-08-15 15:34:34,456 INFO 217124 [egg-watcher:application] watcher start success
+2019-08-15 15:34:34,463 INFO 217124 [egg:core] dump config after ready, 6ms
+2019-08-15 15:34:35,543 INFO 217276 [egg:logger] init all loggers with options: {"dir":"D:\\nodeSenior\\lian\\egg-img\\server\\logs\\server","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"server-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2019-08-15 15:34:35,576 INFO 217276 [egg-multipart] file mode enable
+2019-08-15 15:34:35,576 INFO 217276 [egg-multipart] will save temporary files to "C:\\Users\\37165\\AppData\\Local\\Temp\\egg-multipart-tmp\\server", cleanup job cron: "0 30 4 * * *"
+2019-08-15 15:34:35,661 INFO 217276 [egg-static] starting static serve /public/ -> D:\nodeSenior\lian\egg-img\server\app\public
+2019-08-15 15:34:35,664 INFO 217276 [egg-security] use methodnoallow middleware
+2019-08-15 15:34:35,665 INFO 217276 [egg-security] use noopen middleware
+2019-08-15 15:34:35,666 INFO 217276 [egg-security] use nosniff middleware
+2019-08-15 15:34:35,666 INFO 217276 [egg-security] use xssProtection middleware
+2019-08-15 15:34:35,667 INFO 217276 [egg-security] use xframe middleware
+2019-08-15 15:34:35,667 INFO 217276 [egg-security] use dta middleware
+2019-08-15 15:34:35,667 INFO 217276 [egg-security] compose 6 middlewares into one security middleware
+2019-08-15 15:34:35,682 INFO 217276 [egg:core] dump config after load, 5ms
+2019-08-15 15:34:35,694 INFO 217276 [egg-watcher:application] watcher start success
+2019-08-15 15:34:35,702 INFO 217276 [egg:core] dump config after ready, 6ms
+2019-08-15 15:34:37,017 INFO 217580 [egg:logger] init all loggers with options: {"dir":"D:\\nodeSenior\\lian\\egg-img\\server\\logs\\server","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"server-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2019-08-15 15:34:37,054 INFO 217580 [egg-multipart] file mode enable
+2019-08-15 15:34:37,054 INFO 217580 [egg-multipart] will save temporary files to "C:\\Users\\37165\\AppData\\Local\\Temp\\egg-multipart-tmp\\server", cleanup job cron: "0 30 4 * * *"
+2019-08-15 15:34:37,154 INFO 217580 [egg-static] starting static serve /public/ -> D:\nodeSenior\lian\egg-img\server\app\public
+2019-08-15 15:34:37,158 INFO 217580 [egg-security] use methodnoallow middleware
+2019-08-15 15:34:37,159 INFO 217580 [egg-security] use noopen middleware
+2019-08-15 15:34:37,160 INFO 217580 [egg-security] use nosniff middleware
+2019-08-15 15:34:37,161 INFO 217580 [egg-security] use xssProtection middleware
+2019-08-15 15:34:37,162 INFO 217580 [egg-security] use xframe middleware
+2019-08-15 15:34:37,162 INFO 217580 [egg-security] use dta middleware
+2019-08-15 15:34:37,162 INFO 217580 [egg-security] compose 6 middlewares into one security middleware
+2019-08-15 15:34:37,177 INFO 217580 [egg:core] dump config after load, 7ms
+2019-08-15 15:34:37,189 INFO 217580 [egg-watcher:application] watcher start success
+2019-08-15 15:34:37,198 INFO 217580 [egg:core] dump config after ready, 7ms
+2019-08-15 15:34:38,250 INFO 217556 [egg:logger] init all loggers with options: {"dir":"D:\\nodeSenior\\lian\\egg-img\\server\\logs\\server","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"server-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2019-08-15 15:34:38,290 INFO 217556 [egg-multipart] file mode enable
+2019-08-15 15:34:38,290 INFO 217556 [egg-multipart] will save temporary files to "C:\\Users\\37165\\AppData\\Local\\Temp\\egg-multipart-tmp\\server", cleanup job cron: "0 30 4 * * *"
+2019-08-15 15:34:38,376 INFO 217556 [egg-static] starting static serve /public/ -> D:\nodeSenior\lian\egg-img\server\app\public
+2019-08-15 15:34:38,379 INFO 217556 [egg-security] use methodnoallow middleware
+2019-08-15 15:34:38,379 INFO 217556 [egg-security] use noopen middleware
+2019-08-15 15:34:38,381 INFO 217556 [egg-security] use nosniff middleware
+2019-08-15 15:34:38,381 INFO 217556 [egg-security] use xssProtection middleware
+2019-08-15 15:34:38,382 INFO 217556 [egg-security] use xframe middleware
+2019-08-15 15:34:38,382 INFO 217556 [egg-security] use dta middleware
+2019-08-15 15:34:38,382 INFO 217556 [egg-security] compose 6 middlewares into one security middleware
+2019-08-15 15:34:38,393 INFO 217556 [egg:core] dump config after load, 6ms
+2019-08-15 15:34:38,405 INFO 217556 [egg-watcher:application] watcher start success
+2019-08-15 15:34:38,412 INFO 217556 [egg:core] dump config after ready, 5ms
+2019-08-15 15:35:02,894 INFO 217772 [egg:logger] init all loggers with options: {"dir":"D:\\nodeSenior\\lian\\egg-img\\server\\logs\\server","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"server-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2019-08-15 15:35:02,925 INFO 217772 [egg-multipart] file mode enable
+2019-08-15 15:35:02,925 INFO 217772 [egg-multipart] will save temporary files to "C:\\Users\\37165\\AppData\\Local\\Temp\\egg-multipart-tmp\\server", cleanup job cron: "0 30 4 * * *"
+2019-08-15 15:35:03,006 INFO 217772 [egg-static] starting static serve /public/ -> D:\nodeSenior\lian\egg-img\server\app\public
+2019-08-15 15:35:03,010 INFO 217772 [egg-security] use methodnoallow middleware
+2019-08-15 15:35:03,011 INFO 217772 [egg-security] use noopen middleware
+2019-08-15 15:35:03,012 INFO 217772 [egg-security] use nosniff middleware
+2019-08-15 15:35:03,013 INFO 217772 [egg-security] use xssProtection middleware
+2019-08-15 15:35:03,013 INFO 217772 [egg-security] use xframe middleware
+2019-08-15 15:35:03,014 INFO 217772 [egg-security] use dta middleware
+2019-08-15 15:35:03,014 INFO 217772 [egg-security] compose 6 middlewares into one security middleware
+2019-08-15 15:35:03,024 INFO 217772 [egg:core] dump config after load, 4ms
+2019-08-15 15:35:03,035 INFO 217772 [egg-watcher:application] watcher start success
+2019-08-15 15:35:03,042 INFO 217772 [egg:core] dump config after ready, 6ms
+2019-08-15 15:35:11,331 INFO 218028 [egg:logger] init all loggers with options: {"dir":"D:\\nodeSenior\\lian\\egg-img\\server\\logs\\server","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"server-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2019-08-15 15:35:11,364 INFO 218028 [egg-multipart] file mode enable
+2019-08-15 15:35:11,364 INFO 218028 [egg-multipart] will save temporary files to "C:\\Users\\37165\\AppData\\Local\\Temp\\egg-multipart-tmp\\server", cleanup job cron: "0 30 4 * * *"
+2019-08-15 15:35:11,447 INFO 218028 [egg-static] starting static serve /public/ -> D:\nodeSenior\lian\egg-img\server\app\public
+2019-08-15 15:35:11,450 INFO 218028 [egg-security] use methodnoallow middleware
+2019-08-15 15:35:11,451 INFO 218028 [egg-security] use noopen middleware
+2019-08-15 15:35:11,452 INFO 218028 [egg-security] use nosniff middleware
+2019-08-15 15:35:11,453 INFO 218028 [egg-security] use xssProtection middleware
+2019-08-15 15:35:11,453 INFO 218028 [egg-security] use xframe middleware
+2019-08-15 15:35:11,454 INFO 218028 [egg-security] use dta middleware
+2019-08-15 15:35:11,454 INFO 218028 [egg-security] compose 6 middlewares into one security middleware
+2019-08-15 15:35:11,464 INFO 218028 [egg:core] dump config after load, 6ms
+2019-08-15 15:35:11,474 INFO 218028 [egg-watcher:application] watcher start success
+2019-08-15 15:35:11,481 INFO 218028 [egg:core] dump config after ready, 6ms
+2019-08-15 15:35:21,435 INFO 218568 [egg:logger] init all loggers with options: {"dir":"D:\\nodeSenior\\lian\\egg-img\\server\\logs\\server","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"server-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2019-08-15 15:35:21,467 INFO 218568 [egg-multipart] file mode enable
+2019-08-15 15:35:21,467 INFO 218568 [egg-multipart] will save temporary files to "C:\\Users\\37165\\AppData\\Local\\Temp\\egg-multipart-tmp\\server", cleanup job cron: "0 30 4 * * *"
+2019-08-15 15:35:21,549 INFO 218568 [egg-static] starting static serve /public/ -> D:\nodeSenior\lian\egg-img\server\app\public
+2019-08-15 15:35:21,552 INFO 218568 [egg-security] use methodnoallow middleware
+2019-08-15 15:35:21,552 INFO 218568 [egg-security] use noopen middleware
+2019-08-15 15:35:21,554 INFO 218568 [egg-security] use nosniff middleware
+2019-08-15 15:35:21,554 INFO 218568 [egg-security] use xssProtection middleware
+2019-08-15 15:35:21,555 INFO 218568 [egg-security] use xframe middleware
+2019-08-15 15:35:21,555 INFO 218568 [egg-security] use dta middleware
+2019-08-15 15:35:21,555 INFO 218568 [egg-security] compose 6 middlewares into one security middleware
+2019-08-15 15:35:21,566 INFO 218568 [egg:core] dump config after load, 5ms
+2019-08-15 15:35:21,578 INFO 218568 [egg-watcher:application] watcher start success
+2019-08-15 15:35:21,585 INFO 218568 [egg:core] dump config after ready, 5ms
+2019-08-15 15:37:57,408 INFO 220504 [egg:logger] init all loggers with options: {"dir":"D:\\nodeSenior\\lian\\egg-img\\server\\logs\\server","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"server-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2019-08-15 15:37:57,440 INFO 220504 [egg-multipart] file mode enable
+2019-08-15 15:37:57,440 INFO 220504 [egg-multipart] will save temporary files to "C:\\Users\\37165\\AppData\\Local\\Temp\\egg-multipart-tmp\\server", cleanup job cron: "0 30 4 * * *"
+2019-08-15 15:37:57,525 INFO 220504 [egg-static] starting static serve /public/ -> D:\nodeSenior\lian\egg-img\server\app\public
+2019-08-15 15:37:57,528 INFO 220504 [egg-security] use methodnoallow middleware
+2019-08-15 15:37:57,529 INFO 220504 [egg-security] use noopen middleware
+2019-08-15 15:37:57,530 INFO 220504 [egg-security] use nosniff middleware
+2019-08-15 15:37:57,530 INFO 220504 [egg-security] use xssProtection middleware
+2019-08-15 15:37:57,531 INFO 220504 [egg-security] use xframe middleware
+2019-08-15 15:37:57,531 INFO 220504 [egg-security] use dta middleware
+2019-08-15 15:37:57,531 INFO 220504 [egg-security] compose 6 middlewares into one security middleware
+2019-08-15 15:37:57,541 INFO 220504 [egg:core] dump config after load, 5ms
+2019-08-15 15:37:57,552 INFO 220504 [egg-watcher:application] watcher start success
+2019-08-15 15:37:57,560 INFO 220504 [egg:core] dump config after ready, 6ms
+2019-08-15 15:39:19,121 INFO 220800 [egg:logger] init all loggers with options: {"dir":"D:\\nodeSenior\\lian\\egg-img\\server\\logs\\server","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"server-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2019-08-15 15:39:19,151 INFO 220800 [egg-multipart] file mode enable
+2019-08-15 15:39:19,151 INFO 220800 [egg-multipart] will save temporary files to "C:\\Users\\37165\\AppData\\Local\\Temp\\egg-multipart-tmp\\server", cleanup job cron: "0 30 4 * * *"
+2019-08-15 15:39:19,237 INFO 220800 [egg-static] starting static serve /public/ -> D:\nodeSenior\lian\egg-img\server\app\public
+2019-08-15 15:39:19,240 INFO 220800 [egg-security] use methodnoallow middleware
+2019-08-15 15:39:19,240 INFO 220800 [egg-security] use noopen middleware
+2019-08-15 15:39:19,242 INFO 220800 [egg-security] use nosniff middleware
+2019-08-15 15:39:19,242 INFO 220800 [egg-security] use xssProtection middleware
+2019-08-15 15:39:19,243 INFO 220800 [egg-security] use xframe middleware
+2019-08-15 15:39:19,243 INFO 220800 [egg-security] use dta middleware
+2019-08-15 15:39:19,243 INFO 220800 [egg-security] compose 6 middlewares into one security middleware
+2019-08-15 15:39:19,254 INFO 220800 [egg:core] dump config after load, 5ms
+2019-08-15 15:39:19,263 INFO 220800 [egg-watcher:application] watcher start success
+2019-08-15 15:39:19,270 INFO 220800 [egg:core] dump config after ready, 5ms
+2019-08-15 15:39:28,481 INFO 222472 [egg:logger] init all loggers with options: {"dir":"D:\\nodeSenior\\lian\\egg-img\\server\\logs\\server","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"server-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2019-08-15 15:39:28,513 INFO 222472 [egg-multipart] file mode enable
+2019-08-15 15:39:28,513 INFO 222472 [egg-multipart] will save temporary files to "C:\\Users\\37165\\AppData\\Local\\Temp\\egg-multipart-tmp\\server", cleanup job cron: "0 30 4 * * *"
+2019-08-15 15:39:28,601 INFO 222472 [egg-static] starting static serve /public/ -> D:\nodeSenior\lian\egg-img\server\app\public
+2019-08-15 15:39:28,604 INFO 222472 [egg-security] use methodnoallow middleware
+2019-08-15 15:39:28,604 INFO 222472 [egg-security] use noopen middleware
+2019-08-15 15:39:28,606 INFO 222472 [egg-security] use nosniff middleware
+2019-08-15 15:39:28,607 INFO 222472 [egg-security] use xssProtection middleware
+2019-08-15 15:39:28,607 INFO 222472 [egg-security] use xframe middleware
+2019-08-15 15:39:28,608 INFO 222472 [egg-security] use dta middleware
+2019-08-15 15:39:28,608 INFO 222472 [egg-security] compose 6 middlewares into one security middleware
+2019-08-15 15:39:28,618 INFO 222472 [egg:core] dump config after load, 5ms
+2019-08-15 15:39:28,631 INFO 222472 [egg-watcher:application] watcher start success
+2019-08-15 15:39:28,638 INFO 222472 [egg:core] dump config after ready, 5ms
+2019-08-15 15:40:43,371 INFO 223200 [egg:logger] init all loggers with options: {"dir":"D:\\nodeSenior\\lian\\egg-img\\server\\logs\\server","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"server-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2019-08-15 15:40:43,402 INFO 223200 [egg-multipart] file mode enable
+2019-08-15 15:40:43,402 INFO 223200 [egg-multipart] will save temporary files to "C:\\Users\\37165\\AppData\\Local\\Temp\\egg-multipart-tmp\\server", cleanup job cron: "0 30 4 * * *"
+2019-08-15 15:40:43,489 INFO 223200 [egg-static] starting static serve /public/ -> D:\nodeSenior\lian\egg-img\server\app\public
+2019-08-15 15:40:43,491 INFO 223200 [egg-security] use methodnoallow middleware
+2019-08-15 15:40:43,492 INFO 223200 [egg-security] use noopen middleware
+2019-08-15 15:40:43,494 INFO 223200 [egg-security] use nosniff middleware
+2019-08-15 15:40:43,494 INFO 223200 [egg-security] use xssProtection middleware
+2019-08-15 15:40:43,495 INFO 223200 [egg-security] use xframe middleware
+2019-08-15 15:40:43,495 INFO 223200 [egg-security] use dta middleware
+2019-08-15 15:40:43,495 INFO 223200 [egg-security] compose 6 middlewares into one security middleware
+2019-08-15 15:40:43,505 INFO 223200 [egg:core] dump config after load, 5ms
+2019-08-15 15:40:43,516 INFO 223200 [egg-watcher:application] watcher start success
+2019-08-15 15:40:43,522 INFO 223200 [egg:core] dump config after ready, 5ms
+2019-08-15 15:40:44,573 INFO 222460 [egg:logger] init all loggers with options: {"dir":"D:\\nodeSenior\\lian\\egg-img\\server\\logs\\server","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"server-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2019-08-15 15:40:44,605 INFO 222460 [egg-multipart] file mode enable
+2019-08-15 15:40:44,605 INFO 222460 [egg-multipart] will save temporary files to "C:\\Users\\37165\\AppData\\Local\\Temp\\egg-multipart-tmp\\server", cleanup job cron: "0 30 4 * * *"
+2019-08-15 15:40:44,702 INFO 222460 [egg-static] starting static serve /public/ -> D:\nodeSenior\lian\egg-img\server\app\public
+2019-08-15 15:40:44,705 INFO 222460 [egg-security] use methodnoallow middleware
+2019-08-15 15:40:44,705 INFO 222460 [egg-security] use noopen middleware
+2019-08-15 15:40:44,707 INFO 222460 [egg-security] use nosniff middleware
+2019-08-15 15:40:44,707 INFO 222460 [egg-security] use xssProtection middleware
+2019-08-15 15:40:44,708 INFO 222460 [egg-security] use xframe middleware
+2019-08-15 15:40:44,708 INFO 222460 [egg-security] use dta middleware
+2019-08-15 15:40:44,708 INFO 222460 [egg-security] compose 6 middlewares into one security middleware
+2019-08-15 15:40:44,720 INFO 222460 [egg:core] dump config after load, 5ms
+2019-08-15 15:40:44,731 INFO 222460 [egg-watcher:application] watcher start success
+2019-08-15 15:40:44,738 INFO 222460 [egg:core] dump config after ready, 5ms
+2019-08-15 15:40:46,242 INFO 223396 [egg:logger] init all loggers with options: {"dir":"D:\\nodeSenior\\lian\\egg-img\\server\\logs\\server","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"server-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2019-08-15 15:40:46,274 INFO 223396 [egg-multipart] file mode enable
+2019-08-15 15:40:46,274 INFO 223396 [egg-multipart] will save temporary files to "C:\\Users\\37165\\AppData\\Local\\Temp\\egg-multipart-tmp\\server", cleanup job cron: "0 30 4 * * *"
+2019-08-15 15:40:46,357 INFO 223396 [egg-static] starting static serve /public/ -> D:\nodeSenior\lian\egg-img\server\app\public
+2019-08-15 15:40:46,360 INFO 223396 [egg-security] use methodnoallow middleware
+2019-08-15 15:40:46,361 INFO 223396 [egg-security] use noopen middleware
+2019-08-15 15:40:46,362 INFO 223396 [egg-security] use nosniff middleware
+2019-08-15 15:40:46,363 INFO 223396 [egg-security] use xssProtection middleware
+2019-08-15 15:40:46,363 INFO 223396 [egg-security] use xframe middleware
+2019-08-15 15:40:46,364 INFO 223396 [egg-security] use dta middleware
+2019-08-15 15:40:46,364 INFO 223396 [egg-security] compose 6 middlewares into one security middleware
+2019-08-15 15:40:46,374 INFO 223396 [egg:core] dump config after load, 5ms
+2019-08-15 15:40:46,385 INFO 223396 [egg-watcher:application] watcher start success
+2019-08-15 15:40:46,394 INFO 223396 [egg:core] dump config after ready, 7ms
+2019-08-15 15:40:49,968 INFO 223512 [egg:logger] init all loggers with options: {"dir":"D:\\nodeSenior\\lian\\egg-img\\server\\logs\\server","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"server-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2019-08-15 15:40:50,000 INFO 223512 [egg-multipart] file mode enable
+2019-08-15 15:40:50,000 INFO 223512 [egg-multipart] will save temporary files to "C:\\Users\\37165\\AppData\\Local\\Temp\\egg-multipart-tmp\\server", cleanup job cron: "0 30 4 * * *"
+2019-08-15 15:40:50,085 INFO 223512 [egg-static] starting static serve /public/ -> D:\nodeSenior\lian\egg-img\server\app\public
+2019-08-15 15:40:50,088 INFO 223512 [egg-security] use methodnoallow middleware
+2019-08-15 15:40:50,089 INFO 223512 [egg-security] use noopen middleware
+2019-08-15 15:40:50,090 INFO 223512 [egg-security] use nosniff middleware
+2019-08-15 15:40:50,091 INFO 223512 [egg-security] use xssProtection middleware
+2019-08-15 15:40:50,091 INFO 223512 [egg-security] use xframe middleware
+2019-08-15 15:40:50,092 INFO 223512 [egg-security] use dta middleware
+2019-08-15 15:40:50,092 INFO 223512 [egg-security] compose 6 middlewares into one security middleware
+2019-08-15 15:40:50,102 INFO 223512 [egg:core] dump config after load, 5ms
+2019-08-15 15:40:50,113 INFO 223512 [egg-watcher:application] watcher start success
+2019-08-15 15:40:50,120 INFO 223512 [egg:core] dump config after ready, 6ms
+2019-08-15 15:40:51,415 INFO 223620 [egg:logger] init all loggers with options: {"dir":"D:\\nodeSenior\\lian\\egg-img\\server\\logs\\server","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"server-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2019-08-15 15:40:51,447 INFO 223620 [egg-multipart] file mode enable
+2019-08-15 15:40:51,447 INFO 223620 [egg-multipart] will save temporary files to "C:\\Users\\37165\\AppData\\Local\\Temp\\egg-multipart-tmp\\server", cleanup job cron: "0 30 4 * * *"
+2019-08-15 15:40:51,535 INFO 223620 [egg-static] starting static serve /public/ -> D:\nodeSenior\lian\egg-img\server\app\public
+2019-08-15 15:40:51,538 INFO 223620 [egg-security] use methodnoallow middleware
+2019-08-15 15:40:51,539 INFO 223620 [egg-security] use noopen middleware
+2019-08-15 15:40:51,540 INFO 223620 [egg-security] use nosniff middleware
+2019-08-15 15:40:51,541 INFO 223620 [egg-security] use xssProtection middleware
+2019-08-15 15:40:51,541 INFO 223620 [egg-security] use xframe middleware
+2019-08-15 15:40:51,542 INFO 223620 [egg-security] use dta middleware
+2019-08-15 15:40:51,542 INFO 223620 [egg-security] compose 6 middlewares into one security middleware
+2019-08-15 15:40:51,553 INFO 223620 [egg:core] dump config after load, 6ms
+2019-08-15 15:40:51,564 INFO 223620 [egg-watcher:application] watcher start success
+2019-08-15 15:40:51,572 INFO 223620 [egg:core] dump config after ready, 6ms
+2019-08-15 15:41:02,670 INFO 224208 [egg:logger] init all loggers with options: {"dir":"D:\\nodeSenior\\lian\\egg-img\\server\\logs\\server","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"server-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2019-08-15 15:41:02,703 INFO 224208 [egg-multipart] file mode enable
+2019-08-15 15:41:02,703 INFO 224208 [egg-multipart] will save temporary files to "C:\\Users\\37165\\AppData\\Local\\Temp\\egg-multipart-tmp\\server", cleanup job cron: "0 30 4 * * *"
+2019-08-15 15:41:02,788 INFO 224208 [egg-static] starting static serve /public/ -> D:\nodeSenior\lian\egg-img\server\app\public
+2019-08-15 15:41:02,791 INFO 224208 [egg-security] use methodnoallow middleware
+2019-08-15 15:41:02,792 INFO 224208 [egg-security] use noopen middleware
+2019-08-15 15:41:02,793 INFO 224208 [egg-security] use nosniff middleware
+2019-08-15 15:41:02,794 INFO 224208 [egg-security] use xssProtection middleware
+2019-08-15 15:41:02,794 INFO 224208 [egg-security] use xframe middleware
+2019-08-15 15:41:02,795 INFO 224208 [egg-security] use dta middleware
+2019-08-15 15:41:02,795 INFO 224208 [egg-security] compose 6 middlewares into one security middleware
+2019-08-15 15:41:02,806 INFO 224208 [egg:core] dump config after load, 5ms
+2019-08-15 15:41:02,818 INFO 224208 [egg-watcher:application] watcher start success
+2019-08-15 15:41:02,826 INFO 224208 [egg:core] dump config after ready, 7ms
+2019-08-15 19:34:49,578 WARN 224208 [ClusterClient:Watcher] follower closed, and try to init it again
+2019-08-15 20:01:11,610 INFO 37244 [egg:logger] init all loggers with options: {"dir":"D:\\nodeSenior\\lian\\egg-img\\server\\logs\\server","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"server-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2019-08-15 20:01:11,656 INFO 37244 [egg-multipart] file mode enable
+2019-08-15 20:01:11,656 INFO 37244 [egg-multipart] will save temporary files to "C:\\Users\\37165\\AppData\\Local\\Temp\\egg-multipart-tmp\\server", cleanup job cron: "0 30 4 * * *"
+2019-08-15 20:01:11,790 INFO 37244 [egg-static] starting static serve /public/ -> D:\nodeSenior\lian\egg-img\server\app\public
+2019-08-15 20:01:11,795 INFO 37244 [egg-security] use methodnoallow middleware
+2019-08-15 20:01:11,796 INFO 37244 [egg-security] use noopen middleware
+2019-08-15 20:01:11,798 INFO 37244 [egg-security] use nosniff middleware
+2019-08-15 20:01:11,799 INFO 37244 [egg-security] use xssProtection middleware
+2019-08-15 20:01:11,800 INFO 37244 [egg-security] use xframe middleware
+2019-08-15 20:01:11,800 INFO 37244 [egg-security] use dta middleware
+2019-08-15 20:01:11,800 INFO 37244 [egg-security] compose 6 middlewares into one security middleware
+2019-08-15 20:01:11,814 INFO 37244 [egg:core] dump config after load, 6ms
+2019-08-15 20:01:11,828 INFO 37244 [egg-watcher:application] watcher start success
+2019-08-15 20:01:11,837 INFO 37244 [egg:core] dump config after ready, 7ms
+2019-08-15 20:01:13,353 INFO 36160 [egg:logger] init all loggers with options: {"dir":"D:\\nodeSenior\\lian\\egg-img\\server\\logs\\server","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"server-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2019-08-15 20:01:13,391 INFO 36160 [egg-multipart] file mode enable
+2019-08-15 20:01:13,391 INFO 36160 [egg-multipart] will save temporary files to "C:\\Users\\37165\\AppData\\Local\\Temp\\egg-multipart-tmp\\server", cleanup job cron: "0 30 4 * * *"
+2019-08-15 20:01:13,489 INFO 36160 [egg-static] starting static serve /public/ -> D:\nodeSenior\lian\egg-img\server\app\public
+2019-08-15 20:01:13,492 INFO 36160 [egg-security] use methodnoallow middleware
+2019-08-15 20:01:13,493 INFO 36160 [egg-security] use noopen middleware
+2019-08-15 20:01:13,494 INFO 36160 [egg-security] use nosniff middleware
+2019-08-15 20:01:13,495 INFO 36160 [egg-security] use xssProtection middleware
+2019-08-15 20:01:13,496 INFO 36160 [egg-security] use xframe middleware
+2019-08-15 20:01:13,496 INFO 36160 [egg-security] use dta middleware
+2019-08-15 20:01:13,496 INFO 36160 [egg-security] compose 6 middlewares into one security middleware
+2019-08-15 20:01:13,509 INFO 36160 [egg:core] dump config after load, 7ms
+2019-08-15 20:01:13,521 INFO 36160 [egg-watcher:application] watcher start success
+2019-08-15 20:01:13,529 INFO 36160 [egg:core] dump config after ready, 6ms
+2019-08-16 00:21:43,841 INFO 166084 [egg:logger] init all loggers with options: {"dir":"D:\\nodeSenior\\lian\\egg-img\\server\\logs\\server","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"server-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2019-08-16 00:21:43,893 INFO 166084 [egg-multipart] file mode enable
+2019-08-16 00:21:43,893 INFO 166084 [egg-multipart] will save temporary files to "C:\\Users\\37165\\AppData\\Local\\Temp\\egg-multipart-tmp\\server", cleanup job cron: "0 30 4 * * *"
+2019-08-16 00:21:44,034 INFO 166084 [egg-static] starting static serve /public/ -> D:\nodeSenior\lian\egg-img\server\app\public
+2019-08-16 00:21:44,038 INFO 166084 [egg-security] use methodnoallow middleware
+2019-08-16 00:21:44,040 INFO 166084 [egg-security] use noopen middleware
+2019-08-16 00:21:44,042 INFO 166084 [egg-security] use nosniff middleware
+2019-08-16 00:21:44,043 INFO 166084 [egg-security] use xssProtection middleware
+2019-08-16 00:21:44,044 INFO 166084 [egg-security] use xframe middleware
+2019-08-16 00:21:44,045 INFO 166084 [egg-security] use dta middleware
+2019-08-16 00:21:44,045 INFO 166084 [egg-security] compose 6 middlewares into one security middleware
+2019-08-16 00:21:44,065 INFO 166084 [egg:core] dump config after load, 9ms
+2019-08-16 00:21:44,091 INFO 166084 [egg-watcher:application] watcher start success
+2019-08-16 00:21:44,100 INFO 166084 [egg:core] dump config after ready, 7ms
+2019-08-16 00:21:45,888 INFO 166380 [egg:logger] init all loggers with options: {"dir":"D:\\nodeSenior\\lian\\egg-img\\server\\logs\\server","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"server-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2019-08-16 00:21:45,968 INFO 166380 [egg-multipart] file mode enable
+2019-08-16 00:21:45,968 INFO 166380 [egg-multipart] will save temporary files to "C:\\Users\\37165\\AppData\\Local\\Temp\\egg-multipart-tmp\\server", cleanup job cron: "0 30 4 * * *"
+2019-08-16 00:21:46,153 INFO 166380 [egg-static] starting static serve /public/ -> D:\nodeSenior\lian\egg-img\server\app\public
+2019-08-16 00:21:46,158 INFO 166380 [egg-security] use methodnoallow middleware
+2019-08-16 00:21:46,160 INFO 166380 [egg-security] use noopen middleware
+2019-08-16 00:21:46,162 INFO 166380 [egg-security] use nosniff middleware
+2019-08-16 00:21:46,163 INFO 166380 [egg-security] use xssProtection middleware
+2019-08-16 00:21:46,166 INFO 166380 [egg-security] use xframe middleware
+2019-08-16 00:21:46,168 INFO 166380 [egg-security] use dta middleware
+2019-08-16 00:21:46,168 INFO 166380 [egg-security] compose 6 middlewares into one security middleware
+2019-08-16 00:21:46,188 INFO 166380 [egg:core] dump config after load, 10ms
+2019-08-16 00:21:46,208 INFO 166380 [egg-watcher:application] watcher start success
+2019-08-16 00:21:46,221 INFO 166380 [egg:core] dump config after ready, 11ms
+2019-08-16 00:26:13,267 INFO 165444 [egg:logger] init all loggers with options: {"dir":"D:\\nodeSenior\\lian\\egg-img\\server\\logs\\server","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"server-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2019-08-16 00:26:13,317 INFO 165444 [egg-multipart] file mode enable
+2019-08-16 00:26:13,317 INFO 165444 [egg-multipart] will save temporary files to "C:\\Users\\37165\\AppData\\Local\\Temp\\egg-multipart-tmp\\server", cleanup job cron: "0 30 4 * * *"
+2019-08-16 00:26:13,451 INFO 165444 [egg-static] starting static serve /public/ -> D:\nodeSenior\lian\egg-img\server\app\public
+2019-08-16 00:26:13,455 INFO 165444 [egg-security] use methodnoallow middleware
+2019-08-16 00:26:13,457 INFO 165444 [egg-security] use noopen middleware
+2019-08-16 00:26:13,459 INFO 165444 [egg-security] use nosniff middleware
+2019-08-16 00:26:13,459 INFO 165444 [egg-security] use xssProtection middleware
+2019-08-16 00:26:13,460 INFO 165444 [egg-security] use xframe middleware
+2019-08-16 00:26:13,461 INFO 165444 [egg-security] use dta middleware
+2019-08-16 00:26:13,461 INFO 165444 [egg-security] compose 6 middlewares into one security middleware
+2019-08-16 00:26:13,477 INFO 165444 [egg:core] dump config after load, 7ms
+2019-08-16 00:26:13,492 INFO 165444 [egg-watcher:application] watcher start success
+2019-08-16 00:26:13,503 INFO 165444 [egg:core] dump config after ready, 8ms
+2019-08-16 00:26:27,471 INFO 173764 [egg:logger] init all loggers with options: {"dir":"D:\\nodeSenior\\lian\\egg-img\\server\\logs\\server","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"server-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2019-08-16 00:26:27,524 INFO 173764 [egg-multipart] file mode enable
+2019-08-16 00:26:27,524 INFO 173764 [egg-multipart] will save temporary files to "C:\\Users\\37165\\AppData\\Local\\Temp\\egg-multipart-tmp\\server", cleanup job cron: "0 30 4 * * *"
+2019-08-16 00:26:27,649 INFO 173764 [egg-static] starting static serve /public/ -> D:\nodeSenior\lian\egg-img\server\app\public
+2019-08-16 00:26:27,654 INFO 173764 [egg-security] use methodnoallow middleware
+2019-08-16 00:26:27,655 INFO 173764 [egg-security] use noopen middleware
+2019-08-16 00:26:27,657 INFO 173764 [egg-security] use nosniff middleware
+2019-08-16 00:26:27,658 INFO 173764 [egg-security] use xssProtection middleware
+2019-08-16 00:26:27,658 INFO 173764 [egg-security] use xframe middleware
+2019-08-16 00:26:27,659 INFO 173764 [egg-security] use dta middleware
+2019-08-16 00:26:27,659 INFO 173764 [egg-security] compose 6 middlewares into one security middleware
+2019-08-16 00:26:27,674 INFO 173764 [egg:core] dump config after load, 7ms
+2019-08-16 00:26:27,693 INFO 173764 [egg-watcher:application] watcher start success
+2019-08-16 00:26:27,704 INFO 173764 [egg:core] dump config after ready, 9ms
+2019-08-16 00:33:09,557 INFO 173848 [egg:logger] init all loggers with options: {"dir":"D:\\nodeSenior\\lian\\egg-img\\server\\logs\\server","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"server-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2019-08-16 00:33:09,621 INFO 173848 [egg-multipart] file mode enable
+2019-08-16 00:33:09,621 INFO 173848 [egg-multipart] will save temporary files to "C:\\Users\\37165\\AppData\\Local\\Temp\\egg-multipart-tmp\\server", cleanup job cron: "0 30 4 * * *"
+2019-08-16 00:33:09,777 INFO 173848 [egg-static] starting static serve /public/ -> D:\nodeSenior\lian\egg-img\server\app\public
+2019-08-16 00:33:09,782 INFO 173848 [egg-security] use methodnoallow middleware
+2019-08-16 00:33:09,783 INFO 173848 [egg-security] use noopen middleware
+2019-08-16 00:33:09,785 INFO 173848 [egg-security] use nosniff middleware
+2019-08-16 00:33:09,786 INFO 173848 [egg-security] use xssProtection middleware
+2019-08-16 00:33:09,787 INFO 173848 [egg-security] use xframe middleware
+2019-08-16 00:33:09,788 INFO 173848 [egg-security] use dta middleware
+2019-08-16 00:33:09,788 INFO 173848 [egg-security] compose 6 middlewares into one security middleware
+2019-08-16 00:33:09,806 INFO 173848 [egg:core] dump config after load, 8ms
+2019-08-16 00:33:09,826 INFO 173848 [egg-watcher:application] watcher start success
+2019-08-16 00:33:09,842 INFO 173848 [egg:core] dump config after ready, 14ms
+2019-08-16 00:33:55,271 INFO 177068 [egg:logger] init all loggers with options: {"dir":"D:\\nodeSenior\\lian\\egg-img\\server\\logs\\server","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"server-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2019-08-16 00:33:55,318 INFO 177068 [egg-multipart] file mode enable
+2019-08-16 00:33:55,318 INFO 177068 [egg-multipart] will save temporary files to "C:\\Users\\37165\\AppData\\Local\\Temp\\egg-multipart-tmp\\server", cleanup job cron: "0 30 4 * * *"
+2019-08-16 00:33:55,452 INFO 177068 [egg-static] starting static serve /public/ -> D:\nodeSenior\lian\egg-img\server\app\public
+2019-08-16 00:33:55,456 INFO 177068 [egg-security] use methodnoallow middleware
+2019-08-16 00:33:55,457 INFO 177068 [egg-security] use noopen middleware
+2019-08-16 00:33:55,459 INFO 177068 [egg-security] use nosniff middleware
+2019-08-16 00:33:55,460 INFO 177068 [egg-security] use xssProtection middleware
+2019-08-16 00:33:55,461 INFO 177068 [egg-security] use xframe middleware
+2019-08-16 00:33:55,462 INFO 177068 [egg-security] use dta middleware
+2019-08-16 00:33:55,462 INFO 177068 [egg-security] compose 6 middlewares into one security middleware
+2019-08-16 00:33:55,479 INFO 177068 [egg:core] dump config after load, 8ms
+2019-08-16 00:33:55,495 INFO 177068 [egg-watcher:application] watcher start success
+2019-08-16 00:33:55,507 INFO 177068 [egg:core] dump config after ready, 9ms
+2019-08-16 00:33:57,072 INFO 176136 [egg:logger] init all loggers with options: {"dir":"D:\\nodeSenior\\lian\\egg-img\\server\\logs\\server","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"server-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2019-08-16 00:33:57,123 INFO 176136 [egg-multipart] file mode enable
+2019-08-16 00:33:57,123 INFO 176136 [egg-multipart] will save temporary files to "C:\\Users\\37165\\AppData\\Local\\Temp\\egg-multipart-tmp\\server", cleanup job cron: "0 30 4 * * *"
+2019-08-16 00:33:57,242 INFO 176136 [egg-static] starting static serve /public/ -> D:\nodeSenior\lian\egg-img\server\app\public
+2019-08-16 00:33:57,247 INFO 176136 [egg-security] use methodnoallow middleware
+2019-08-16 00:33:57,248 INFO 176136 [egg-security] use noopen middleware
+2019-08-16 00:33:57,250 INFO 176136 [egg-security] use nosniff middleware
+2019-08-16 00:33:57,251 INFO 176136 [egg-security] use xssProtection middleware
+2019-08-16 00:33:57,251 INFO 176136 [egg-security] use xframe middleware
+2019-08-16 00:33:57,252 INFO 176136 [egg-security] use dta middleware
+2019-08-16 00:33:57,252 INFO 176136 [egg-security] compose 6 middlewares into one security middleware
+2019-08-16 00:33:57,266 INFO 176136 [egg:core] dump config after load, 7ms
+2019-08-16 00:33:57,281 INFO 176136 [egg-watcher:application] watcher start success
+2019-08-16 00:33:57,292 INFO 176136 [egg:core] dump config after ready, 9ms

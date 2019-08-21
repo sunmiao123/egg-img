@@ -1,0 +1,80 @@
+2019-08-14 20:14:43,804 WARN 8008 [-/127.0.0.1/-/28ms POST /api] invalid csrf token. See https://eggjs.org/zh-cn/core/security.html#安全威胁csrf的防范
+2019-08-14 20:14:43,807 WARN 8008 [-/127.0.0.1/-/30ms POST /api] nodejs.ForbiddenError: invalid csrf token
+    at Object.throw (D:\nodeSenior\lian\egg-img\server\node_modules\koa\lib\context.js:97:11)
+    at Object.assertCsrf (D:\nodeSenior\lian\egg-img\server\node_modules\egg-security\app\extend\context.js:163:19)
+    at csrf (D:\nodeSenior\lian\egg-img\server\node_modules\egg-security\lib\middlewares\csrf.js:33:9)
+    at dispatch (D:\nodeSenior\lian\egg-img\server\node_modules\egg-security\node_modules\koa-compose\index.js:42:32)
+    at D:\nodeSenior\lian\egg-img\server\node_modules\egg-security\node_modules\koa-compose\index.js:34:12
+    at dispatch (D:\nodeSenior\lian\egg-img\server\node_modules\koa\node_modules\koa-compose\index.js:42:32)
+    at session (D:\nodeSenior\lian\egg-img\server\node_modules\koa-session\index.js:41:13)
+    at dispatch (D:\nodeSenior\lian\egg-img\server\node_modules\koa\node_modules\koa-compose\index.js:42:32)
+    at overrideMethod (D:\nodeSenior\lian\egg-img\server\node_modules\koa-override\index.js:38:12)
+    at dispatch (D:\nodeSenior\lian\egg-img\server\node_modules\koa\node_modules\koa-compose\index.js:42:32)
+message: "invalid csrf token"
+pid: 8008
+hostname: LAPTOP-6F0LUR3I
+
+2019-08-14 20:40:54,087 WARN 8008 [-/127.0.0.1/-/1ms POST /api/user/imgFn] missing csrf token. See https://eggjs.org/zh-cn/core/security.html#安全威胁csrf的防范
+2019-08-14 20:40:54,089 WARN 8008 [-/127.0.0.1/-/3ms POST /api/user/imgFn] nodejs.ForbiddenError: missing csrf token
+    at Object.throw (D:\nodeSenior\lian\egg-img\server\node_modules\koa\lib\context.js:97:11)
+    at Object.assertCsrf (D:\nodeSenior\lian\egg-img\server\node_modules\egg-security\app\extend\context.js:154:19)
+    at csrf (D:\nodeSenior\lian\egg-img\server\node_modules\egg-security\lib\middlewares\csrf.js:33:9)
+    at dispatch (D:\nodeSenior\lian\egg-img\server\node_modules\egg-security\node_modules\koa-compose\index.js:42:32)
+    at D:\nodeSenior\lian\egg-img\server\node_modules\egg-security\node_modules\koa-compose\index.js:34:12
+    at dispatch (D:\nodeSenior\lian\egg-img\server\node_modules\koa\node_modules\koa-compose\index.js:42:32)
+    at session (D:\nodeSenior\lian\egg-img\server\node_modules\koa-session\index.js:41:13)
+    at dispatch (D:\nodeSenior\lian\egg-img\server\node_modules\koa\node_modules\koa-compose\index.js:42:32)
+    at overrideMethod (D:\nodeSenior\lian\egg-img\server\node_modules\koa-override\index.js:38:12)
+    at dispatch (D:\nodeSenior\lian\egg-img\server\node_modules\koa\node_modules\koa-compose\index.js:42:32)
+message: "missing csrf token"
+pid: 8008
+hostname: LAPTOP-6F0LUR3I
+
+2019-08-14 20:40:54,114 WARN 8008 [-/127.0.0.1/-/0ms POST /api/user/imgFn] missing csrf token. See https://eggjs.org/zh-cn/core/security.html#安全威胁csrf的防范
+2019-08-14 20:40:54,115 WARN 8008 [-/127.0.0.1/-/1ms POST /api/user/imgFn] nodejs.ForbiddenError: missing csrf token
+    at Object.throw (D:\nodeSenior\lian\egg-img\server\node_modules\koa\lib\context.js:97:11)
+    at Object.assertCsrf (D:\nodeSenior\lian\egg-img\server\node_modules\egg-security\app\extend\context.js:154:19)
+    at csrf (D:\nodeSenior\lian\egg-img\server\node_modules\egg-security\lib\middlewares\csrf.js:33:9)
+    at dispatch (D:\nodeSenior\lian\egg-img\server\node_modules\egg-security\node_modules\koa-compose\index.js:42:32)
+    at D:\nodeSenior\lian\egg-img\server\node_modules\egg-security\node_modules\koa-compose\index.js:34:12
+    at dispatch (D:\nodeSenior\lian\egg-img\server\node_modules\koa\node_modules\koa-compose\index.js:42:32)
+    at session (D:\nodeSenior\lian\egg-img\server\node_modules\koa-session\index.js:41:13)
+    at dispatch (D:\nodeSenior\lian\egg-img\server\node_modules\koa\node_modules\koa-compose\index.js:42:32)
+    at overrideMethod (D:\nodeSenior\lian\egg-img\server\node_modules\koa-override\index.js:38:12)
+    at dispatch (D:\nodeSenior\lian\egg-img\server\node_modules\koa\node_modules\koa-compose\index.js:42:32)
+message: "missing csrf token"
+pid: 8008
+hostname: LAPTOP-6F0LUR3I
+
+2019-08-14 20:40:54,436 WARN 8008 [-/127.0.0.1/-/0ms POST /api/user/imgFn] missing csrf token. See https://eggjs.org/zh-cn/core/security.html#安全威胁csrf的防范
+2019-08-14 20:40:54,436 WARN 8008 [-/127.0.0.1/-/1ms POST /api/user/imgFn] nodejs.ForbiddenError: missing csrf token
+    at Object.throw (D:\nodeSenior\lian\egg-img\server\node_modules\koa\lib\context.js:97:11)
+    at Object.assertCsrf (D:\nodeSenior\lian\egg-img\server\node_modules\egg-security\app\extend\context.js:154:19)
+    at csrf (D:\nodeSenior\lian\egg-img\server\node_modules\egg-security\lib\middlewares\csrf.js:33:9)
+    at dispatch (D:\nodeSenior\lian\egg-img\server\node_modules\egg-security\node_modules\koa-compose\index.js:42:32)
+    at D:\nodeSenior\lian\egg-img\server\node_modules\egg-security\node_modules\koa-compose\index.js:34:12
+    at dispatch (D:\nodeSenior\lian\egg-img\server\node_modules\koa\node_modules\koa-compose\index.js:42:32)
+    at session (D:\nodeSenior\lian\egg-img\server\node_modules\koa-session\index.js:41:13)
+    at dispatch (D:\nodeSenior\lian\egg-img\server\node_modules\koa\node_modules\koa-compose\index.js:42:32)
+    at overrideMethod (D:\nodeSenior\lian\egg-img\server\node_modules\koa-override\index.js:38:12)
+    at dispatch (D:\nodeSenior\lian\egg-img\server\node_modules\koa\node_modules\koa-compose\index.js:42:32)
+message: "missing csrf token"
+pid: 8008
+hostname: LAPTOP-6F0LUR3I
+
+2019-08-14 20:58:07,466 WARN 8008 [-/127.0.0.1/-/1ms POST /api/user/imgFn] invalid csrf token. See https://eggjs.org/zh-cn/core/security.html#安全威胁csrf的防范
+2019-08-14 20:58:07,467 WARN 8008 [-/127.0.0.1/-/2ms POST /api/user/imgFn] nodejs.ForbiddenError: invalid csrf token
+    at Object.throw (D:\nodeSenior\lian\egg-img\server\node_modules\koa\lib\context.js:97:11)
+    at Object.assertCsrf (D:\nodeSenior\lian\egg-img\server\node_modules\egg-security\app\extend\context.js:163:19)
+    at csrf (D:\nodeSenior\lian\egg-img\server\node_modules\egg-security\lib\middlewares\csrf.js:33:9)
+    at dispatch (D:\nodeSenior\lian\egg-img\server\node_modules\egg-security\node_modules\koa-compose\index.js:42:32)
+    at D:\nodeSenior\lian\egg-img\server\node_modules\egg-security\node_modules\koa-compose\index.js:34:12
+    at dispatch (D:\nodeSenior\lian\egg-img\server\node_modules\koa\node_modules\koa-compose\index.js:42:32)
+    at session (D:\nodeSenior\lian\egg-img\server\node_modules\koa-session\index.js:41:13)
+    at dispatch (D:\nodeSenior\lian\egg-img\server\node_modules\koa\node_modules\koa-compose\index.js:42:32)
+    at overrideMethod (D:\nodeSenior\lian\egg-img\server\node_modules\koa-override\index.js:38:12)
+    at dispatch (D:\nodeSenior\lian\egg-img\server\node_modules\koa\node_modules\koa-compose\index.js:42:32)
+message: "invalid csrf token"
+pid: 8008
+hostname: LAPTOP-6F0LUR3I
+

@@ -1,0 +1,216 @@
+2019-08-15 00:16:14,600 INFO 19868 [egg-schedule]: register schedule D:\nodeSenior\lian\egg-img\server\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2019-08-15 00:16:14,600 INFO 19868 [egg-schedule]: register schedule D:\nodeSenior\lian\egg-img\server\node_modules\egg-logrotator\app\schedule\clean_log.js
+2019-08-15 00:16:14,600 INFO 19868 [egg-schedule]: register schedule D:\nodeSenior\lian\egg-img\server\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2019-08-15 00:16:16,526 INFO 14188 [egg-schedule]: register schedule D:\nodeSenior\lian\egg-img\server\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2019-08-15 00:16:16,526 INFO 14188 [egg-schedule]: register schedule D:\nodeSenior\lian\egg-img\server\node_modules\egg-logrotator\app\schedule\clean_log.js
+2019-08-15 00:16:16,526 INFO 14188 [egg-schedule]: register schedule D:\nodeSenior\lian\egg-img\server\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2019-08-15 00:16:18,341 INFO 8020 [egg-schedule]: register schedule D:\nodeSenior\lian\egg-img\server\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2019-08-15 00:16:18,341 INFO 8020 [egg-schedule]: register schedule D:\nodeSenior\lian\egg-img\server\node_modules\egg-logrotator\app\schedule\clean_log.js
+2019-08-15 00:16:18,341 INFO 8020 [egg-schedule]: register schedule D:\nodeSenior\lian\egg-img\server\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2019-08-15 00:20:55,263 INFO 19468 [Timer] D:\nodeSenior\lian\egg-img\server\node_modules\egg-multipart\app\schedule\clean_tmpdir.js next time will execute after 14944741ms at 2019-08-15 04:30:00.004
+2019-08-15 00:20:55,265 INFO 19468 [Timer] D:\nodeSenior\lian\egg-img\server\node_modules\egg-logrotator\app\schedule\clean_log.js next time will execute after 85144736ms at 2019-08-16 00:00:00.001
+2019-08-15 00:20:55,266 INFO 19468 [Timer] D:\nodeSenior\lian\egg-img\server\node_modules\egg-logrotator\app\schedule\rotate_by_file.js next time will execute after 85145735ms at 2019-08-16 00:00:01.001
+2019-08-15 00:20:55,075 INFO 6272 [egg-schedule]: register schedule D:\nodeSenior\lian\egg-img\server\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2019-08-15 00:20:55,075 INFO 6272 [egg-schedule]: register schedule D:\nodeSenior\lian\egg-img\server\node_modules\egg-logrotator\app\schedule\clean_log.js
+2019-08-15 00:20:55,075 INFO 6272 [egg-schedule]: register schedule D:\nodeSenior\lian\egg-img\server\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2019-08-15 00:27:40,009 INFO 18304 [egg-schedule]: register schedule D:\nodeSenior\lian\egg-img\server\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2019-08-15 00:27:40,009 INFO 18304 [egg-schedule]: register schedule D:\nodeSenior\lian\egg-img\server\node_modules\egg-logrotator\app\schedule\clean_log.js
+2019-08-15 00:27:40,009 INFO 18304 [egg-schedule]: register schedule D:\nodeSenior\lian\egg-img\server\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2019-08-15 00:28:07,450 INFO 17824 [egg-schedule]: register schedule D:\nodeSenior\lian\egg-img\server\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2019-08-15 00:28:07,450 INFO 17824 [egg-schedule]: register schedule D:\nodeSenior\lian\egg-img\server\node_modules\egg-logrotator\app\schedule\clean_log.js
+2019-08-15 00:28:07,450 INFO 17824 [egg-schedule]: register schedule D:\nodeSenior\lian\egg-img\server\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2019-08-15 00:32:47,585 INFO 2040 [Timer] D:\nodeSenior\lian\egg-img\server\node_modules\egg-multipart\app\schedule\clean_tmpdir.js next time will execute after 14232419ms at 2019-08-15 04:30:00.004
+2019-08-15 00:32:47,586 INFO 2040 [Timer] D:\nodeSenior\lian\egg-img\server\node_modules\egg-logrotator\app\schedule\clean_log.js next time will execute after 84432415ms at 2019-08-16 00:00:00.001
+2019-08-15 00:32:47,587 INFO 2040 [Timer] D:\nodeSenior\lian\egg-img\server\node_modules\egg-logrotator\app\schedule\rotate_by_file.js next time will execute after 84433414ms at 2019-08-16 00:00:01.001
+2019-08-15 00:32:47,398 INFO 17688 [egg-schedule]: register schedule D:\nodeSenior\lian\egg-img\server\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2019-08-15 00:32:47,398 INFO 17688 [egg-schedule]: register schedule D:\nodeSenior\lian\egg-img\server\node_modules\egg-logrotator\app\schedule\clean_log.js
+2019-08-15 00:32:47,398 INFO 17688 [egg-schedule]: register schedule D:\nodeSenior\lian\egg-img\server\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2019-08-15 00:37:37,501 INFO 15748 [egg-schedule]: register schedule D:\nodeSenior\lian\egg-img\server\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2019-08-15 00:37:37,501 INFO 15748 [egg-schedule]: register schedule D:\nodeSenior\lian\egg-img\server\node_modules\egg-logrotator\app\schedule\clean_log.js
+2019-08-15 00:37:37,501 INFO 15748 [egg-schedule]: register schedule D:\nodeSenior\lian\egg-img\server\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2019-08-15 00:37:39,357 INFO 20156 [egg-schedule]: register schedule D:\nodeSenior\lian\egg-img\server\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2019-08-15 00:37:39,357 INFO 20156 [egg-schedule]: register schedule D:\nodeSenior\lian\egg-img\server\node_modules\egg-logrotator\app\schedule\clean_log.js
+2019-08-15 00:37:39,357 INFO 20156 [egg-schedule]: register schedule D:\nodeSenior\lian\egg-img\server\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2019-08-15 00:38:25,373 INFO 14360 [egg-schedule]: register schedule D:\nodeSenior\lian\egg-img\server\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2019-08-15 00:38:25,373 INFO 14360 [egg-schedule]: register schedule D:\nodeSenior\lian\egg-img\server\node_modules\egg-logrotator\app\schedule\clean_log.js
+2019-08-15 00:38:25,373 INFO 14360 [egg-schedule]: register schedule D:\nodeSenior\lian\egg-img\server\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2019-08-15 00:40:45,046 INFO 15776 [egg-schedule]: register schedule D:\nodeSenior\lian\egg-img\server\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2019-08-15 00:40:45,046 INFO 15776 [egg-schedule]: register schedule D:\nodeSenior\lian\egg-img\server\node_modules\egg-logrotator\app\schedule\clean_log.js
+2019-08-15 00:40:45,046 INFO 15776 [egg-schedule]: register schedule D:\nodeSenior\lian\egg-img\server\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2019-08-15 00:40:45,254 INFO 15660 [Timer] D:\nodeSenior\lian\egg-img\server\node_modules\egg-multipart\app\schedule\clean_tmpdir.js next time will execute after 13754751ms at 2019-08-15 04:30:00.005
+2019-08-15 00:40:45,255 INFO 15660 [Timer] D:\nodeSenior\lian\egg-img\server\node_modules\egg-logrotator\app\schedule\clean_log.js next time will execute after 83954746ms at 2019-08-16 00:00:00.001
+2019-08-15 00:40:45,256 INFO 15660 [Timer] D:\nodeSenior\lian\egg-img\server\node_modules\egg-logrotator\app\schedule\rotate_by_file.js next time will execute after 83955745ms at 2019-08-16 00:00:01.001
+2019-08-15 00:47:29,320 INFO 13080 [egg-schedule]: register schedule D:\nodeSenior\lian\egg-img\server\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2019-08-15 00:47:29,321 INFO 13080 [egg-schedule]: register schedule D:\nodeSenior\lian\egg-img\server\node_modules\egg-logrotator\app\schedule\clean_log.js
+2019-08-15 00:47:29,321 INFO 13080 [egg-schedule]: register schedule D:\nodeSenior\lian\egg-img\server\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2019-08-15 00:48:21,760 INFO 14132 [Timer] D:\nodeSenior\lian\egg-img\server\node_modules\egg-multipart\app\schedule\clean_tmpdir.js next time will execute after 13298244ms at 2019-08-15 04:30:00.004
+2019-08-15 00:48:21,761 INFO 14132 [Timer] D:\nodeSenior\lian\egg-img\server\node_modules\egg-logrotator\app\schedule\clean_log.js next time will execute after 83498240ms at 2019-08-16 00:00:00.001
+2019-08-15 00:48:21,762 INFO 14132 [Timer] D:\nodeSenior\lian\egg-img\server\node_modules\egg-logrotator\app\schedule\rotate_by_file.js next time will execute after 83499239ms at 2019-08-16 00:00:01.001
+2019-08-15 00:48:21,566 INFO 15796 [egg-schedule]: register schedule D:\nodeSenior\lian\egg-img\server\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2019-08-15 00:48:21,566 INFO 15796 [egg-schedule]: register schedule D:\nodeSenior\lian\egg-img\server\node_modules\egg-logrotator\app\schedule\clean_log.js
+2019-08-15 00:48:21,566 INFO 15796 [egg-schedule]: register schedule D:\nodeSenior\lian\egg-img\server\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2019-08-15 00:49:45,669 INFO 20156 [egg-schedule]: register schedule D:\nodeSenior\lian\egg-img\server\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2019-08-15 00:49:45,669 INFO 20156 [egg-schedule]: register schedule D:\nodeSenior\lian\egg-img\server\node_modules\egg-logrotator\app\schedule\clean_log.js
+2019-08-15 00:49:45,669 INFO 20156 [egg-schedule]: register schedule D:\nodeSenior\lian\egg-img\server\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2019-08-15 00:50:09,611 INFO 18436 [Timer] D:\nodeSenior\lian\egg-img\server\node_modules\egg-multipart\app\schedule\clean_tmpdir.js next time will execute after 13190393ms at 2019-08-15 04:30:00.004
+2019-08-15 00:50:09,612 INFO 18436 [Timer] D:\nodeSenior\lian\egg-img\server\node_modules\egg-logrotator\app\schedule\clean_log.js next time will execute after 83390389ms at 2019-08-16 00:00:00.001
+2019-08-15 00:50:09,613 INFO 18436 [Timer] D:\nodeSenior\lian\egg-img\server\node_modules\egg-logrotator\app\schedule\rotate_by_file.js next time will execute after 83391388ms at 2019-08-16 00:00:01.000
+2019-08-15 00:50:09,429 INFO 18516 [egg-schedule]: register schedule D:\nodeSenior\lian\egg-img\server\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2019-08-15 00:50:09,429 INFO 18516 [egg-schedule]: register schedule D:\nodeSenior\lian\egg-img\server\node_modules\egg-logrotator\app\schedule\clean_log.js
+2019-08-15 00:50:09,429 INFO 18516 [egg-schedule]: register schedule D:\nodeSenior\lian\egg-img\server\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2019-08-15 00:50:38,644 INFO 18088 [egg-schedule]: register schedule D:\nodeSenior\lian\egg-img\server\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2019-08-15 00:50:38,644 INFO 18088 [egg-schedule]: register schedule D:\nodeSenior\lian\egg-img\server\node_modules\egg-logrotator\app\schedule\clean_log.js
+2019-08-15 00:50:38,644 INFO 18088 [egg-schedule]: register schedule D:\nodeSenior\lian\egg-img\server\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2019-08-15 00:51:42,060 INFO 14076 [egg-schedule]: register schedule D:\nodeSenior\lian\egg-img\server\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2019-08-15 00:51:42,060 INFO 14076 [egg-schedule]: register schedule D:\nodeSenior\lian\egg-img\server\node_modules\egg-logrotator\app\schedule\clean_log.js
+2019-08-15 00:51:42,060 INFO 14076 [egg-schedule]: register schedule D:\nodeSenior\lian\egg-img\server\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2019-08-15 15:21:13,742 INFO 200216 [Timer] D:\nodeSenior\lian\egg-img\server\node_modules\egg-multipart\app\schedule\clean_tmpdir.js next time will execute after 47326261ms at 2019-08-16 04:30:00.003
+2019-08-15 15:21:13,743 INFO 200216 [Timer] D:\nodeSenior\lian\egg-img\server\node_modules\egg-logrotator\app\schedule\clean_log.js next time will execute after 31126258ms at 2019-08-16 00:00:00.001
+2019-08-15 15:21:13,743 INFO 200216 [Timer] D:\nodeSenior\lian\egg-img\server\node_modules\egg-logrotator\app\schedule\rotate_by_file.js next time will execute after 31127257ms at 2019-08-16 00:00:01.000
+2019-08-15 15:21:13,553 INFO 200788 [egg-schedule]: register schedule D:\nodeSenior\lian\egg-img\server\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2019-08-15 15:21:13,553 INFO 200788 [egg-schedule]: register schedule D:\nodeSenior\lian\egg-img\server\node_modules\egg-logrotator\app\schedule\clean_log.js
+2019-08-15 15:21:13,553 INFO 200788 [egg-schedule]: register schedule D:\nodeSenior\lian\egg-img\server\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2019-08-15 15:21:15,258 INFO 200936 [egg-schedule]: register schedule D:\nodeSenior\lian\egg-img\server\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2019-08-15 15:21:15,258 INFO 200936 [egg-schedule]: register schedule D:\nodeSenior\lian\egg-img\server\node_modules\egg-logrotator\app\schedule\clean_log.js
+2019-08-15 15:21:15,258 INFO 200936 [egg-schedule]: register schedule D:\nodeSenior\lian\egg-img\server\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2019-08-15 15:21:53,395 INFO 202412 [Timer] D:\nodeSenior\lian\egg-img\server\node_modules\egg-multipart\app\schedule\clean_tmpdir.js next time will execute after 47286608ms at 2019-08-16 04:30:00.003
+2019-08-15 15:21:53,397 INFO 202412 [Timer] D:\nodeSenior\lian\egg-img\server\node_modules\egg-logrotator\app\schedule\clean_log.js next time will execute after 31086605ms at 2019-08-16 00:00:00.002
+2019-08-15 15:21:53,397 INFO 202412 [Timer] D:\nodeSenior\lian\egg-img\server\node_modules\egg-logrotator\app\schedule\rotate_by_file.js next time will execute after 31087603ms at 2019-08-16 00:00:01.000
+2019-08-15 15:21:53,258 INFO 202548 [egg-schedule]: register schedule D:\nodeSenior\lian\egg-img\server\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2019-08-15 15:21:53,258 INFO 202548 [egg-schedule]: register schedule D:\nodeSenior\lian\egg-img\server\node_modules\egg-logrotator\app\schedule\clean_log.js
+2019-08-15 15:21:53,258 INFO 202548 [egg-schedule]: register schedule D:\nodeSenior\lian\egg-img\server\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2019-08-15 15:23:07,235 INFO 207452 [egg-schedule]: register schedule D:\nodeSenior\lian\egg-img\server\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2019-08-15 15:23:07,235 INFO 207452 [egg-schedule]: register schedule D:\nodeSenior\lian\egg-img\server\node_modules\egg-logrotator\app\schedule\clean_log.js
+2019-08-15 15:23:07,235 INFO 207452 [egg-schedule]: register schedule D:\nodeSenior\lian\egg-img\server\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2019-08-15 15:23:08,449 INFO 207524 [egg-schedule]: register schedule D:\nodeSenior\lian\egg-img\server\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2019-08-15 15:23:08,449 INFO 207524 [egg-schedule]: register schedule D:\nodeSenior\lian\egg-img\server\node_modules\egg-logrotator\app\schedule\clean_log.js
+2019-08-15 15:23:08,449 INFO 207524 [egg-schedule]: register schedule D:\nodeSenior\lian\egg-img\server\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2019-08-15 15:23:09,744 INFO 207592 [egg-schedule]: register schedule D:\nodeSenior\lian\egg-img\server\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2019-08-15 15:23:09,744 INFO 207592 [egg-schedule]: register schedule D:\nodeSenior\lian\egg-img\server\node_modules\egg-logrotator\app\schedule\clean_log.js
+2019-08-15 15:23:09,744 INFO 207592 [egg-schedule]: register schedule D:\nodeSenior\lian\egg-img\server\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2019-08-15 15:23:21,021 INFO 208056 [Timer] D:\nodeSenior\lian\egg-img\server\node_modules\egg-multipart\app\schedule\clean_tmpdir.js next time will execute after 47198982ms at 2019-08-16 04:30:00.003
+2019-08-15 15:23:21,021 INFO 208056 [Timer] D:\nodeSenior\lian\egg-img\server\node_modules\egg-logrotator\app\schedule\clean_log.js next time will execute after 30998979ms at 2019-08-16 00:00:00.000
+2019-08-15 15:23:21,022 INFO 208056 [Timer] D:\nodeSenior\lian\egg-img\server\node_modules\egg-logrotator\app\schedule\rotate_by_file.js next time will execute after 30999979ms at 2019-08-16 00:00:01.001
+2019-08-15 15:23:20,895 INFO 208756 [egg-schedule]: register schedule D:\nodeSenior\lian\egg-img\server\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2019-08-15 15:23:20,896 INFO 208756 [egg-schedule]: register schedule D:\nodeSenior\lian\egg-img\server\node_modules\egg-logrotator\app\schedule\clean_log.js
+2019-08-15 15:23:20,896 INFO 208756 [egg-schedule]: register schedule D:\nodeSenior\lian\egg-img\server\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2019-08-15 15:25:27,019 INFO 209188 [egg-schedule]: register schedule D:\nodeSenior\lian\egg-img\server\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2019-08-15 15:25:27,019 INFO 209188 [egg-schedule]: register schedule D:\nodeSenior\lian\egg-img\server\node_modules\egg-logrotator\app\schedule\clean_log.js
+2019-08-15 15:25:27,019 INFO 209188 [egg-schedule]: register schedule D:\nodeSenior\lian\egg-img\server\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2019-08-15 15:25:39,312 INFO 209436 [egg-schedule]: register schedule D:\nodeSenior\lian\egg-img\server\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2019-08-15 15:25:39,312 INFO 209436 [egg-schedule]: register schedule D:\nodeSenior\lian\egg-img\server\node_modules\egg-logrotator\app\schedule\clean_log.js
+2019-08-15 15:25:39,312 INFO 209436 [egg-schedule]: register schedule D:\nodeSenior\lian\egg-img\server\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2019-08-15 15:26:37,136 INFO 209804 [egg-schedule]: register schedule D:\nodeSenior\lian\egg-img\server\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2019-08-15 15:26:37,136 INFO 209804 [egg-schedule]: register schedule D:\nodeSenior\lian\egg-img\server\node_modules\egg-logrotator\app\schedule\clean_log.js
+2019-08-15 15:26:37,136 INFO 209804 [egg-schedule]: register schedule D:\nodeSenior\lian\egg-img\server\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2019-08-15 15:26:58,155 INFO 210048 [egg-schedule]: register schedule D:\nodeSenior\lian\egg-img\server\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2019-08-15 15:26:58,155 INFO 210048 [egg-schedule]: register schedule D:\nodeSenior\lian\egg-img\server\node_modules\egg-logrotator\app\schedule\clean_log.js
+2019-08-15 15:26:58,155 INFO 210048 [egg-schedule]: register schedule D:\nodeSenior\lian\egg-img\server\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2019-08-15 15:28:46,307 INFO 211164 [egg-schedule]: register schedule D:\nodeSenior\lian\egg-img\server\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2019-08-15 15:28:46,307 INFO 211164 [egg-schedule]: register schedule D:\nodeSenior\lian\egg-img\server\node_modules\egg-logrotator\app\schedule\clean_log.js
+2019-08-15 15:28:46,307 INFO 211164 [egg-schedule]: register schedule D:\nodeSenior\lian\egg-img\server\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2019-08-15 15:29:58,889 INFO 211820 [egg-schedule]: register schedule D:\nodeSenior\lian\egg-img\server\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2019-08-15 15:29:58,889 INFO 211820 [egg-schedule]: register schedule D:\nodeSenior\lian\egg-img\server\node_modules\egg-logrotator\app\schedule\clean_log.js
+2019-08-15 15:29:58,889 INFO 211820 [egg-schedule]: register schedule D:\nodeSenior\lian\egg-img\server\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2019-08-15 15:31:39,089 INFO 212664 [egg-schedule]: register schedule D:\nodeSenior\lian\egg-img\server\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2019-08-15 15:31:39,089 INFO 212664 [egg-schedule]: register schedule D:\nodeSenior\lian\egg-img\server\node_modules\egg-logrotator\app\schedule\clean_log.js
+2019-08-15 15:31:39,089 INFO 212664 [egg-schedule]: register schedule D:\nodeSenior\lian\egg-img\server\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2019-08-15 15:32:30,591 INFO 213188 [egg-schedule]: register schedule D:\nodeSenior\lian\egg-img\server\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2019-08-15 15:32:30,591 INFO 213188 [egg-schedule]: register schedule D:\nodeSenior\lian\egg-img\server\node_modules\egg-logrotator\app\schedule\clean_log.js
+2019-08-15 15:32:30,591 INFO 213188 [egg-schedule]: register schedule D:\nodeSenior\lian\egg-img\server\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2019-08-15 15:32:48,448 INFO 208604 [Timer] D:\nodeSenior\lian\egg-img\server\node_modules\egg-multipart\app\schedule\clean_tmpdir.js next time will execute after 46631555ms at 2019-08-16 04:30:00.003
+2019-08-15 15:32:48,448 INFO 208604 [Timer] D:\nodeSenior\lian\egg-img\server\node_modules\egg-logrotator\app\schedule\clean_log.js next time will execute after 30431552ms at 2019-08-16 00:00:00.000
+2019-08-15 15:32:48,449 INFO 208604 [Timer] D:\nodeSenior\lian\egg-img\server\node_modules\egg-logrotator\app\schedule\rotate_by_file.js next time will execute after 30432552ms at 2019-08-16 00:00:01.001
+2019-08-15 15:32:48,317 INFO 214068 [egg-schedule]: register schedule D:\nodeSenior\lian\egg-img\server\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2019-08-15 15:32:48,317 INFO 214068 [egg-schedule]: register schedule D:\nodeSenior\lian\egg-img\server\node_modules\egg-logrotator\app\schedule\clean_log.js
+2019-08-15 15:32:48,317 INFO 214068 [egg-schedule]: register schedule D:\nodeSenior\lian\egg-img\server\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2019-08-15 15:34:34,343 INFO 217124 [egg-schedule]: register schedule D:\nodeSenior\lian\egg-img\server\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2019-08-15 15:34:34,343 INFO 217124 [egg-schedule]: register schedule D:\nodeSenior\lian\egg-img\server\node_modules\egg-logrotator\app\schedule\clean_log.js
+2019-08-15 15:34:34,343 INFO 217124 [egg-schedule]: register schedule D:\nodeSenior\lian\egg-img\server\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2019-08-15 15:34:35,575 INFO 217276 [egg-schedule]: register schedule D:\nodeSenior\lian\egg-img\server\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2019-08-15 15:34:35,575 INFO 217276 [egg-schedule]: register schedule D:\nodeSenior\lian\egg-img\server\node_modules\egg-logrotator\app\schedule\clean_log.js
+2019-08-15 15:34:35,575 INFO 217276 [egg-schedule]: register schedule D:\nodeSenior\lian\egg-img\server\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2019-08-15 15:34:37,053 INFO 217580 [egg-schedule]: register schedule D:\nodeSenior\lian\egg-img\server\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2019-08-15 15:34:37,053 INFO 217580 [egg-schedule]: register schedule D:\nodeSenior\lian\egg-img\server\node_modules\egg-logrotator\app\schedule\clean_log.js
+2019-08-15 15:34:37,053 INFO 217580 [egg-schedule]: register schedule D:\nodeSenior\lian\egg-img\server\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2019-08-15 15:34:38,289 INFO 217556 [egg-schedule]: register schedule D:\nodeSenior\lian\egg-img\server\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2019-08-15 15:34:38,289 INFO 217556 [egg-schedule]: register schedule D:\nodeSenior\lian\egg-img\server\node_modules\egg-logrotator\app\schedule\clean_log.js
+2019-08-15 15:34:38,289 INFO 217556 [egg-schedule]: register schedule D:\nodeSenior\lian\egg-img\server\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2019-08-15 15:35:02,925 INFO 217772 [egg-schedule]: register schedule D:\nodeSenior\lian\egg-img\server\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2019-08-15 15:35:02,925 INFO 217772 [egg-schedule]: register schedule D:\nodeSenior\lian\egg-img\server\node_modules\egg-logrotator\app\schedule\clean_log.js
+2019-08-15 15:35:02,925 INFO 217772 [egg-schedule]: register schedule D:\nodeSenior\lian\egg-img\server\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2019-08-15 15:35:11,364 INFO 218028 [egg-schedule]: register schedule D:\nodeSenior\lian\egg-img\server\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2019-08-15 15:35:11,364 INFO 218028 [egg-schedule]: register schedule D:\nodeSenior\lian\egg-img\server\node_modules\egg-logrotator\app\schedule\clean_log.js
+2019-08-15 15:35:11,364 INFO 218028 [egg-schedule]: register schedule D:\nodeSenior\lian\egg-img\server\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2019-08-15 15:35:21,593 INFO 218528 [Timer] D:\nodeSenior\lian\egg-img\server\node_modules\egg-multipart\app\schedule\clean_tmpdir.js next time will execute after 46478410ms at 2019-08-16 04:30:00.003
+2019-08-15 15:35:21,593 INFO 218528 [Timer] D:\nodeSenior\lian\egg-img\server\node_modules\egg-logrotator\app\schedule\clean_log.js next time will execute after 30278407ms at 2019-08-16 00:00:00.000
+2019-08-15 15:35:21,593 INFO 218528 [Timer] D:\nodeSenior\lian\egg-img\server\node_modules\egg-logrotator\app\schedule\rotate_by_file.js next time will execute after 30279407ms at 2019-08-16 00:00:01.000
+2019-08-15 15:35:21,466 INFO 218568 [egg-schedule]: register schedule D:\nodeSenior\lian\egg-img\server\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2019-08-15 15:35:21,467 INFO 218568 [egg-schedule]: register schedule D:\nodeSenior\lian\egg-img\server\node_modules\egg-logrotator\app\schedule\clean_log.js
+2019-08-15 15:35:21,467 INFO 218568 [egg-schedule]: register schedule D:\nodeSenior\lian\egg-img\server\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2019-08-15 15:37:57,439 INFO 220504 [egg-schedule]: register schedule D:\nodeSenior\lian\egg-img\server\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2019-08-15 15:37:57,439 INFO 220504 [egg-schedule]: register schedule D:\nodeSenior\lian\egg-img\server\node_modules\egg-logrotator\app\schedule\clean_log.js
+2019-08-15 15:37:57,439 INFO 220504 [egg-schedule]: register schedule D:\nodeSenior\lian\egg-img\server\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2019-08-15 15:39:19,151 INFO 220800 [egg-schedule]: register schedule D:\nodeSenior\lian\egg-img\server\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2019-08-15 15:39:19,151 INFO 220800 [egg-schedule]: register schedule D:\nodeSenior\lian\egg-img\server\node_modules\egg-logrotator\app\schedule\clean_log.js
+2019-08-15 15:39:19,151 INFO 220800 [egg-schedule]: register schedule D:\nodeSenior\lian\egg-img\server\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2019-08-15 15:39:28,648 INFO 222632 [Timer] D:\nodeSenior\lian\egg-img\server\node_modules\egg-multipart\app\schedule\clean_tmpdir.js next time will execute after 46231357ms at 2019-08-16 04:30:00.005
+2019-08-15 15:39:28,648 INFO 222632 [Timer] D:\nodeSenior\lian\egg-img\server\node_modules\egg-logrotator\app\schedule\clean_log.js next time will execute after 30031352ms at 2019-08-16 00:00:00.000
+2019-08-15 15:39:28,649 INFO 222632 [Timer] D:\nodeSenior\lian\egg-img\server\node_modules\egg-logrotator\app\schedule\rotate_by_file.js next time will execute after 30032352ms at 2019-08-16 00:00:01.001
+2019-08-15 15:39:28,512 INFO 222472 [egg-schedule]: register schedule D:\nodeSenior\lian\egg-img\server\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2019-08-15 15:39:28,512 INFO 222472 [egg-schedule]: register schedule D:\nodeSenior\lian\egg-img\server\node_modules\egg-logrotator\app\schedule\clean_log.js
+2019-08-15 15:39:28,512 INFO 222472 [egg-schedule]: register schedule D:\nodeSenior\lian\egg-img\server\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2019-08-15 15:40:43,401 INFO 223200 [egg-schedule]: register schedule D:\nodeSenior\lian\egg-img\server\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2019-08-15 15:40:43,401 INFO 223200 [egg-schedule]: register schedule D:\nodeSenior\lian\egg-img\server\node_modules\egg-logrotator\app\schedule\clean_log.js
+2019-08-15 15:40:43,401 INFO 223200 [egg-schedule]: register schedule D:\nodeSenior\lian\egg-img\server\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2019-08-15 15:40:44,604 INFO 222460 [egg-schedule]: register schedule D:\nodeSenior\lian\egg-img\server\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2019-08-15 15:40:44,604 INFO 222460 [egg-schedule]: register schedule D:\nodeSenior\lian\egg-img\server\node_modules\egg-logrotator\app\schedule\clean_log.js
+2019-08-15 15:40:44,604 INFO 222460 [egg-schedule]: register schedule D:\nodeSenior\lian\egg-img\server\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2019-08-15 15:40:46,274 INFO 223396 [egg-schedule]: register schedule D:\nodeSenior\lian\egg-img\server\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2019-08-15 15:40:46,274 INFO 223396 [egg-schedule]: register schedule D:\nodeSenior\lian\egg-img\server\node_modules\egg-logrotator\app\schedule\clean_log.js
+2019-08-15 15:40:46,274 INFO 223396 [egg-schedule]: register schedule D:\nodeSenior\lian\egg-img\server\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2019-08-15 15:40:49,999 INFO 223512 [egg-schedule]: register schedule D:\nodeSenior\lian\egg-img\server\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2019-08-15 15:40:49,999 INFO 223512 [egg-schedule]: register schedule D:\nodeSenior\lian\egg-img\server\node_modules\egg-logrotator\app\schedule\clean_log.js
+2019-08-15 15:40:49,999 INFO 223512 [egg-schedule]: register schedule D:\nodeSenior\lian\egg-img\server\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2019-08-15 15:40:51,446 INFO 223620 [egg-schedule]: register schedule D:\nodeSenior\lian\egg-img\server\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2019-08-15 15:40:51,446 INFO 223620 [egg-schedule]: register schedule D:\nodeSenior\lian\egg-img\server\node_modules\egg-logrotator\app\schedule\clean_log.js
+2019-08-15 15:40:51,446 INFO 223620 [egg-schedule]: register schedule D:\nodeSenior\lian\egg-img\server\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2019-08-15 15:41:02,834 INFO 224132 [Timer] D:\nodeSenior\lian\egg-img\server\node_modules\egg-multipart\app\schedule\clean_tmpdir.js next time will execute after 46137169ms at 2019-08-16 04:30:00.003
+2019-08-15 15:41:02,834 INFO 224132 [Timer] D:\nodeSenior\lian\egg-img\server\node_modules\egg-logrotator\app\schedule\clean_log.js next time will execute after 29937166ms at 2019-08-16 00:00:00.000
+2019-08-15 15:41:02,835 INFO 224132 [Timer] D:\nodeSenior\lian\egg-img\server\node_modules\egg-logrotator\app\schedule\rotate_by_file.js next time will execute after 29938166ms at 2019-08-16 00:00:01.001
+2019-08-15 15:41:02,702 INFO 224208 [egg-schedule]: register schedule D:\nodeSenior\lian\egg-img\server\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2019-08-15 15:41:02,702 INFO 224208 [egg-schedule]: register schedule D:\nodeSenior\lian\egg-img\server\node_modules\egg-logrotator\app\schedule\clean_log.js
+2019-08-15 15:41:02,702 INFO 224208 [egg-schedule]: register schedule D:\nodeSenior\lian\egg-img\server\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2019-08-15 20:01:11,655 INFO 37244 [egg-schedule]: register schedule D:\nodeSenior\lian\egg-img\server\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2019-08-15 20:01:11,655 INFO 37244 [egg-schedule]: register schedule D:\nodeSenior\lian\egg-img\server\node_modules\egg-logrotator\app\schedule\clean_log.js
+2019-08-15 20:01:11,655 INFO 37244 [egg-schedule]: register schedule D:\nodeSenior\lian\egg-img\server\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2019-08-15 20:01:13,390 INFO 36160 [egg-schedule]: register schedule D:\nodeSenior\lian\egg-img\server\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2019-08-15 20:01:13,390 INFO 36160 [egg-schedule]: register schedule D:\nodeSenior\lian\egg-img\server\node_modules\egg-logrotator\app\schedule\clean_log.js
+2019-08-15 20:01:13,390 INFO 36160 [egg-schedule]: register schedule D:\nodeSenior\lian\egg-img\server\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2019-08-16 00:21:44,109 INFO 165344 [Timer] D:\nodeSenior\lian\egg-img\server\node_modules\egg-multipart\app\schedule\clean_tmpdir.js next time will execute after 14895896ms at 2019-08-16 04:30:00.005
+2019-08-16 00:21:44,113 INFO 165344 [Timer] D:\nodeSenior\lian\egg-img\server\node_modules\egg-logrotator\app\schedule\clean_log.js next time will execute after 85095890ms at 2019-08-17 00:00:00.003
+2019-08-16 00:21:44,114 INFO 165344 [Timer] D:\nodeSenior\lian\egg-img\server\node_modules\egg-logrotator\app\schedule\rotate_by_file.js next time will execute after 85096887ms at 2019-08-17 00:00:01.001
+2019-08-16 00:21:43,892 INFO 166084 [egg-schedule]: register schedule D:\nodeSenior\lian\egg-img\server\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2019-08-16 00:21:43,892 INFO 166084 [egg-schedule]: register schedule D:\nodeSenior\lian\egg-img\server\node_modules\egg-logrotator\app\schedule\clean_log.js
+2019-08-16 00:21:43,892 INFO 166084 [egg-schedule]: register schedule D:\nodeSenior\lian\egg-img\server\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2019-08-16 00:21:45,967 INFO 166380 [egg-schedule]: register schedule D:\nodeSenior\lian\egg-img\server\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2019-08-16 00:21:45,967 INFO 166380 [egg-schedule]: register schedule D:\nodeSenior\lian\egg-img\server\node_modules\egg-logrotator\app\schedule\clean_log.js
+2019-08-16 00:21:45,967 INFO 166380 [egg-schedule]: register schedule D:\nodeSenior\lian\egg-img\server\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2019-08-16 00:26:13,316 INFO 165444 [egg-schedule]: register schedule D:\nodeSenior\lian\egg-img\server\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2019-08-16 00:26:13,316 INFO 165444 [egg-schedule]: register schedule D:\nodeSenior\lian\egg-img\server\node_modules\egg-logrotator\app\schedule\clean_log.js
+2019-08-16 00:26:13,316 INFO 165444 [egg-schedule]: register schedule D:\nodeSenior\lian\egg-img\server\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2019-08-16 00:26:27,702 INFO 174232 [Timer] D:\nodeSenior\lian\egg-img\server\node_modules\egg-multipart\app\schedule\clean_tmpdir.js next time will execute after 14612302ms at 2019-08-16 04:30:00.004
+2019-08-16 00:26:27,703 INFO 174232 [Timer] D:\nodeSenior\lian\egg-img\server\node_modules\egg-logrotator\app\schedule\clean_log.js next time will execute after 84812298ms at 2019-08-17 00:00:00.001
+2019-08-16 00:26:27,705 INFO 174232 [Timer] D:\nodeSenior\lian\egg-img\server\node_modules\egg-logrotator\app\schedule\rotate_by_file.js next time will execute after 84813296ms at 2019-08-17 00:00:01.001
+2019-08-16 00:26:27,524 INFO 173764 [egg-schedule]: register schedule D:\nodeSenior\lian\egg-img\server\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2019-08-16 00:26:27,524 INFO 173764 [egg-schedule]: register schedule D:\nodeSenior\lian\egg-img\server\node_modules\egg-logrotator\app\schedule\clean_log.js
+2019-08-16 00:26:27,524 INFO 173764 [egg-schedule]: register schedule D:\nodeSenior\lian\egg-img\server\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2019-08-16 00:33:09,619 INFO 173848 [egg-schedule]: register schedule D:\nodeSenior\lian\egg-img\server\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2019-08-16 00:33:09,619 INFO 173848 [egg-schedule]: register schedule D:\nodeSenior\lian\egg-img\server\node_modules\egg-logrotator\app\schedule\clean_log.js
+2019-08-16 00:33:09,619 INFO 173848 [egg-schedule]: register schedule D:\nodeSenior\lian\egg-img\server\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2019-08-16 00:33:55,318 INFO 177068 [egg-schedule]: register schedule D:\nodeSenior\lian\egg-img\server\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2019-08-16 00:33:55,318 INFO 177068 [egg-schedule]: register schedule D:\nodeSenior\lian\egg-img\server\node_modules\egg-logrotator\app\schedule\clean_log.js
+2019-08-16 00:33:55,318 INFO 177068 [egg-schedule]: register schedule D:\nodeSenior\lian\egg-img\server\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2019-08-16 00:33:57,122 INFO 176136 [egg-schedule]: register schedule D:\nodeSenior\lian\egg-img\server\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2019-08-16 00:33:57,122 INFO 176136 [egg-schedule]: register schedule D:\nodeSenior\lian\egg-img\server\node_modules\egg-logrotator\app\schedule\clean_log.js
+2019-08-16 00:33:57,122 INFO 176136 [egg-schedule]: register schedule D:\nodeSenior\lian\egg-img\server\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
