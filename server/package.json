@@ -10,7 +10,7 @@
   "license": "ISC",
   "dependencies": {
     "egg": "^2.23.0",
-    "egg-bin": "^4.13.0",
+    "egg-bin": "^5.9.0",
     "egg-mysql": "^3.0.0"
   }
 }
